@@ -1,0 +1,2435 @@
+I get that the methods of getting the cash vary -- sales of a company or lots of stock holdings, inheritance, sports or arts careers, lottery.
+
+But once I find myself the proud owner of $100,000,000 or $200,000,000 or $300,000,000, what do you typically *do?*
+
+My vague understanding is you carefully with trusted fiscal guidance and legal oversight (competing lawyers...?) invest it in a diverse manner. Some into bonds, some into mutual funds, some into IRAs, whatever, and you aim for something like net 5%-8% annual growth.
+
+Then you periodically have the money guy (how often?) liquefy some percentage of your growth into cash, which gets tossed into your checking account after tax allocations. So you might live off of something like 3% to 4% of your annual growth?
+
+So if I had $300,000,000 to put into funds with a goal of withdrawing say 3.5% annually without touching the principle, it would be like $10,500,000 in revenue, and say 65% of that left after taxes and charity? 
+
+So about $6,825,000 a year, or $131,250 a week in theoretically perpetual net income to do whatever with? Re-invest, start businesses, invest, party, travel, pay a mortgage or two, buy groceries?
+
+How often would you get that disbursement, typically?
+
+How close am I in my guesswork?
+
+Apologies if this is the wrong subreddit.
+While it's certainly possible to take 100,000,000 or even 10,000,000 and just do a 4% draw down every year and live on that until the end of your days.
+
+Most will opt to put it into the market and live on dividends.
+
+Lets take AT&T.
+
+They're a very old, stable company. They raise their dividend every year (and have for some 40+ years).
+
+So lets say you have 100 million. And we'll keep the numbers simple.
+
+They pay $2/year paid in 50 cent increments every quarter for every share you own.
+
+If you spend all 100 million on AT&T stock at $40/share you would own 2,500,000 shares.
+
+So every quarter (3 months) AT&T would pay you $1,250,000. 
+So every year they would pay you $5,000,000 (before taxes).
+
+Now, this scenario isn't overly accurate because no one would put literally 100% of their fortune into a single company. They'd diversify across dozens of companies. Each of those companies would have different dividend rates.
+
+But they would be in long term companies, like AT&T, Johnson and Johnson, etc.
+
+They would also own Bonds for safety. Government bonds are guaranteed by the government and despite the rhetoric and vitriol yelling back and forth from both sides of the aisle in Congress and the White House, the credit worthiness of the US government is considered the most (or among the most) sound in the world. 
+
+The U.S. always pays its debts.
+
+So even though Bond rates are low, they're steady and perpetual.
+
+Another strategy is creatively using Debt.
+
+Lets take another scenario that will be an example and not necessarily a true representation.
+
+Lets say I can borrow money at 2% interest rate.
+So I borrow 1 million from the bank, and have to pay back $20,000 for a total of $1,020,000.
+
+But I can earn 5% investing in a company's dividend.
+
+It's not uncommon to borrow the money invest it, pocket the 3% difference.
+
+Now a bank would do that for you or I, because it's very high risk for them. But to someone with millions in cash collateral, it's a more reasonable investment for the bank.
+
+Or the wealthy person will start a business, and have the business borrow the money. That was if it someone does fail, the business goes bankrupt and shuts down, but the person's private assets can't be touched. Only the business's assets (of which there are none, it's a business on paper only).
+
+So these are just a few methods the ultra wealthy use.
+
+These processes are just repeated and expanded over many companies and opportunities.  
+**(A few years ago over in r/ifiwonthelottery someone came up with a game plan..... this probably isn't how old money is set up but new smart money is.)**
+
+You just won the lottery. A gentleman's guide for handling the money that you didn't earn nor deserve. (self.ifiwonthelottery)
+
+I see this topic come up pretty frequently on here - the more pragmatic, technical details of how a win would be handled. There is a lot of bad advice and a lot of poor rationale tossed around. The most common one I see is the idea of just sticking it into a "low fee index account" as an investment. I wanted to dispel some of those ideas and provide a more sensible approach that you can use when daydreaming about winning.
+So you just won. Let's say, for ease, that you won a $185m jackpot, which nets out to just a few thousand dollars shy of $100m post-taxes (39.6%). How do you proceed?
+
+1) Tell no one. This is common advice, and it's completely correct. Not only will family and friends start begging for money (or treating you differently), but you are likely to have frivolous lawsuits come out of the woodwork. You will want to keep your windfall quiet until your legal affairs are in order, and it's best to minimize how much people know thereafter.
+
+2) Engage an attorney. Not a family friend, not someone you found in the phone book. Pick a firm from the top 10 of this list and ask for their Estate/Wealth team. Explain your situation (that you have just won a $185m jackpot and want to engage their services to plan and manage the claim) and do not settle for an associate - you want someone at the Partner level. They want your business so they will certainly be willing to either fly you to their office or will send someone out to you. I am not deeply knowledgable on the inner workings of this part of the process but it is likely that they will set up a series of trusts through which they will claim the prize, allowing you to keep your name out of the papers.
+Yes, Skadden or whoever is going to cost you more than your family friend. A local attorney will bill you $200 an hour for your time. A Partner at Skadden is going to bill you $1000 or more per hour. But the benefits are going to far outweigh the cost - not to mention if they fuck it up somehow (they won't), you have a company with a significant balance sheet to lay claim against.
+
+**3) Managing your wealth. Your attorney will help advise you on the best way to go with this, but you have several options. Managing your money yourself through ETF's and index's is not one of them. That is fucking stupid. If you want to play with some cash in the market you can take $100k and do so with no real risk.**
+**So your options are really just these two:
+a) Asset wealth management / private banker: In this option you will be set up with a small team of individuals at a major firm (JP Morgan, UBS, Credit Suisse, Morgan Stanley Smith Barney, etc.) who will look to maintain and grow your wealth according to a set of parameters and a risk profile as agreed upon by yourself and the firm. They can provide a wide array of options, from you flat out telling them that you want your risk to closely track the equity markets (which they will advise against, for good reason), to the inclusion of bonds and derivatives, to what the industry refers to as "alternatives" (hedge funds, private equity, etc.). I do not recommend this option as the fees they take are not insubstantial and they have incentive to push high-commission products on you.**
+**b) You can hire a family office. A "family office" is an industry term for a group of professionals and support staff who's sole task is to manage your affairs, your money, and your interests. Here is a white paper on the conceptual and internal portions of a family office, written by Credit Suisse.
+You can either hire on an established family office (called a "multi-family office" - one who takes care of the affairs of multiple families) or build out your own. They will be able to provide just as wide, or even wider, an array of products as a AWM/Private Banker as they can simply engage them as needed, but will also be able to provide options that are perhaps more suitable for you. For instance, a real estate boom of unprecedented rapidity in Phoenix may go largely unnoticed by an AWM team, your family office can analyze those trends and invest in condo developments in that city. They also operate without the conflict of interest inherent in AWM/PB on the commission side. They are paid a salary and potentially a bonus/management fee.
+But their services extend far beyond your finances. Let's say you have a horse at your summer home in Montana that you would like brought down to your winter home in Texas. A single text message to your family office handles that - "need Mr. Cloppy @ ranch in Texas by sep 15th". Done. The rest is handled by them. When you want to buy a piece of property to build a home they will handle it for you. They will negotiate mortgage rates, they will analyze contracts, they will set up meetings with architects. Everything. Their job is to run your life as much as you desire so that it's not your problem. A friend of mine was dating a girl and her father believed that he was below her station (he was). The head of the family office was the one to deliver the message that he was to break up with her.
+Work with your attorney to establish a family office. Let them handle your shit. They will be smarter than you are about basically every subject that matters. And they have your interests at heart, because their employment and compensation is aligned with your well being and happiness.
+(Note: A single-family office is best at around $100m and up, but still viable (especially as a "hybrid" family office) down to around $50m. Multi-family offices will still work down to ~$25m. Below that you are in AWM-only territory.)**
+
+4) Take a vacation. There is going to be a not-insignificant delay between the start of this process and when your winnings are collected, if for no other reason than that it will take time to establish the legal entities for your family office and the trusts/shell companies that the winnings will be moved through. But it's also just a good idea to wait in order to mask who won. So you should take a vacation. Like everything else your attorney will handle this for you, but you will want to take out a line of credit in order to fund your vacation. That's no problem, as banks will extend lines of credit against lottery winnings.. So take a 6 month vacation, spend $750k of your winnings, live it up. My recommendation would be to get out of the United States, because your absence is going to get noticed and you're not going to be able to hide your elation forever. Go live in St. Barts for a bit. Use that time to get in shape, to read up on the finances that will effect your life so that you know what is going on. Go overseas and study your favorite subject at Oxford for a few months. Go to Santorini and spend your next few months fucking beautiful women. The world is your playground now.
+And use that time to sort out, rationally, what you want to do with the next X many years of your life. Figure out the best ways to get to that goal with the help of your legal counsel and family office (which, if done right, will have a lawyer as part of it). If you want to start a cupcake making business this would be a great time to start planning, and you can spend a bit of cash to be taught what you need to know to make the best cupcakes by a world renowned pastry chef.
+
+5) One-off bits of advice.
+* Use your attorney/family office as a buffer between yourself and all of the bullshit handout requests from your family. Your family office head is going to be a smart guy, and he will be able to identify the difference between a bullshit money grab and a legitimate request from a family member, so if you tell him "we can give up to $50k a year to family" he will do that. And he will also be there to be the bad guy when it's time to tell your cousin that you haven't seen in 17 years to get fucked asking for money to buy a Dodge Charger.
+* Do not hire your friends as employees. If you want your best friend from college to be around all the time, don't do it by making the guy your driver or your chef. Just give him $80k a year so that he doesn't have to work if that's what you want. Making them an employee is going to eventually build a sense of resentment. You are permanently altering the power structure in your friendship well beyond their dependence on you for an income - you are making yourself their superior. 
+* Don't buy a yacht. Charter them when you want to use one. They are an incredible waste of money. 1/5th the original purchase price per year for maintenance alone, plus crew costs, fuel, etc.
+* Watch closely those who enters your circle of friends. You will have hangers on. You will have people try to take advantage of you.
+* If you're a guy, get a fucking vasectomy. I think the reasons are patently obvious and you can still have kids without issue. There is no downside.
+* If you're a single guy and you plan to go on a bang-bender a prime avenue for extortion is falsified sexual assault claims. Wire your house up with hidden cameras. I don't think you can legally have them in the bedroom in any state (edit: Some people are saying that you legally can. Based on my quick research of the laws surrounding nanny cams, it appears to be correct.), but the ones throughout the public area of your house should suffice. It's a cheap investment in your security and wellbeing.
+Rental properties.
+Invest in assets 
+Suppose that you won the Lottery last week, and now you already have the money. (Assuming no taxes, and no outside factors. AHEM murdering family member AHEM)
+
+You should study your options: You can use a Wealth Manager (Hedge Fund, Investment Banking), you can look for properties to buy, or you can open a brokerage account and put your money into a managed fund.
+
+I'd say that the best way is to look at Investment banks (JPM, GS) and talk to them about how much risk tolerance you have, what you plan to do (Take $400,000 every year, etc.) and answer their questions. Ask about fees, you don't want to get absolutely fucked by them, ask about HOW things work, and then leave your money with them.
+
+Assuming a regular market return, if you 'invest' 100,000,000, you're expected a return of... say... 5-15% a year, that's 5 Million to 15 Million a year of income. You take however much you want, then leave the rest there to grow.
+
+It's literally impossible for you to live a non-wealthy life EVER again if you do this. Unless your bank goes under, which is not likely AT ALL. Your sons/daughters will have their lives handed to them as well, and in order to secure that your wealth won't go to shit because of the 'Death Tax', you should transfer many assets to their names.
+
+Maybe 25-25-50, you keeping the 50%. Make sure to raise them well so that your family keeps growing their wealth, and in 200 years your family will probably be considered a 'traditional' family with old money.
+
+Ta-da.
+The only exception here is that ultra wealthy (or anyone) generally can't create a business that can get any real loans without personally guaranteeing the loans immediately.  For businesses to be credit worthy they need revenues, assets, and their own Dunn and Bradstreet rating all of which takes time.
+Also....
+
+Warren Buffet's advice to his trustee on his wife's behalf:
+
+>My advice to the trustee couldn't be more simple: Put 10% of the cash in short-term government bonds and 90% in a very low-cost S&P 500 index fund. (I suggest Vanguard's.) I believe the trust's long-term results from this policy will be superior to those attained by most investors — whether pension funds, institutions or individuals — who employ high-fee managers.
+This is very true. I certainly over simplified the process.
+
+I was ultimately trying to show the OPM principal and that was the easiest I could think of at the spur of the moment. :)
+
+
+What's the point if you had all that money and didn't enjoy it? 
+He's  more giving than selfish 
+
+But I wonder how many of those "millionaires" are only on paper...
+
+ ie grandma bought a house north of phoenix in the 50's for 8k that's now worth 2.5 million but she will never sell those memories,  making her a paper millionaire.
+
+ (Houses don't count until you sell them.)
+i wonder how many grew up in public housing. 
+
+reassuring, nonetheless.
+Just because you didn't inherit it doesn't necessarily mean you earned it on your own. How many benefited from their parents paying for an Ivy league MBA, or were able to benefit from their business connections or got significant money from them to start a new company? I'm guessing a lot.
+I think you mean that your primary residence doesnt count, houses in general are an asset that can produce income.
+The book says that 80% of them are first generation millionaires, so they didnt necessarily have a parent that had connections.  
+
+I would recommend reading the book, it talks in depth on why having millionaire parents tends to make for middle to upper middle class kids.
+True, income producing properties should be counted.....but those that don't produce, should not be.
+I agree
+Yes i was also surprise by this.
+I will take a look at it. But it's got to be easier to become a millionaire with highly educated parents that are making 100k/yr+ than if they dropped out of high school and are working at walmart.
+
+Family support is a HUGE factor. My parents were well educated and financially supportive to the extent they could be but definitely not millionaires. I probably will be, but have no delusions that that would have been possible without family support.
+
+Yes, I'm sure their are exceptions of millionaires who were orphans or grew up in the projects, but I would surprise for the great majority of the millionaires that is not the case.
+I agree that it is easier to be wealthy with more wealthy parents.  I think it has a lot more to do with genetics and environment.  I also dont believe that the story of the poor white kid from the ghetto is realistic, but mainly because how they were raised.
+
+The most important thing in becoming really wealthy is spending habits (as long as you have a reasonably good income).  I will be a millionaire by 35 by because I am good saver and make a pretty good income.  The other way to do it is be frugal and own a business.
+i've seen no data suggesting causation between high-earning, well-educated parents, and entrepreneurial success. Entrepreneurs, unlike career professionals, must overcome great odds to become very successful in the financial sense. Having an "easy" childhood does not exactly prepare you for the kind of grit, discipline, and determination that we frequently see amongst highest-earners. 
+
+I'm looking at you, Steve Jobs (orphan), Larry Ellison (hells-kitchen poor), Ken Langone (dad-plumber, mom-cafeteria worker), Oprah (childhood poverty), Kirk Kekorian (dropped out of school 8th grade), Paul Mitchel hair products guy (orphanage)...
+Nbd, just gonna be a millionaire at 35. Humble brag?
+Maybe for entrepreneurial Billionaires you are correct, but for the much larger number of millionaires it's definitely a correlation to coming from a solidly middle class or better background. There are basic levels of exposure to money management, investment, debt, higher education, etc. that make rising higher economically more feasible.
+Here's one article:
+
+http://www.theatlantic.com/business/archive/2015/09/entrepreneurship-increasingly-the-province-of-the-wealthy/404443/
+
+There are many more similar sources. 
+
+Data sets are important - Harvard tells us entrepreneurship is booming but their sample population is made up of exclusively Harvard alumni. Statistically significant sources say it's shrinking. Additionally the definition is now much wider - every twit with a website reselling something from another website self-labels as an entrepreneur. 
+My own story is one that most people could emulate to become wealthy, that is why it is a good example.  I dont get enjoyment trying to impress people on the internet.  In real life I dont tell people how much money I have, and I actually like it when people think I am poor (which is pretty frequently because I drive cheap vehicles, and wear second hand clothing).
+Review census data related to the so-called "1%" - as I did several years ago. It shows high turnover in the 1% - people move up, people move down.
+
+Most of the wealthy people I know were not born into wealth. NY Times has also written several articles discussing how second and third generations loose the wealth they inherited. There were 3 factors that stood out: 1) estate tax, 2) large families, 3) easy come, easy go.
+
+To that last point, making a lot of money is very hard, as it should be. People who come by it easily often lack the essential skills required to preserve and grow it.
+
+The great thing about America, compared to other wealthy nations through history, is great economic mobility.
+I read your reference but don't see how that refutes my statement.
+
+1. Causation does not equal causation
+2. Securing funding for your startup does not equal entrepreneurial success
+It is the great thing about America. Sadly, economic mobility in the U.S. has been decreasing. It's a major concern.
+
+"In recent years several large studies have found that vertical inter-generational mobility is lower in the United States than in most developed countries."
+
+https://en.wikipedia.org/wiki/Economic_mobility
+
+
+
+So rich people are awesome, got it!
+
+I agree with the nostalgia part. I think the two main thought patterns behind people who want to be wealthy but cannot seem to make strides towards it are:
+
+1. They are stuck in the past
+
+2. They fear change, particularly success.
+
+
+
+
+I work with family offices. Here is what they actually ask, often:
+"How do we transition management of the family business to the next generation when the kids have no interest?"
+
+"How do we get the next generation interested in investing and managing investments?"
+
+"How do you teach stewardship? (best practices)"
+
+"What do you think of AQR?
+
+"Does anyone know X at (Chinese company)?
+
+"Co-investment or blind pool better in Myanmar agtech?"
+
+"Who handles your due diligence?"
+
+"Are you going to (Campden, IPI, FOX, etc) event this year?"
+
+Also, various questions related to specific tax strategies.
+I don't know if here is where the wealthy hang out lol But my guess is that AskReddit would be pretty empty, or full of the same mundane questions
+
+Maybe some threads related to experience, "What was the best restaurant you visited?", "What's your favorite watch?", "Normal people of reddit, how can your back resist to a 12hr flight on those seats??", "Where's the best view in the world?", "What's the best club you've been to", "What's your favorite loophole for tax evasion?"
+
+Maybe we wouldn't have a lot of different questions, but a lot of different answers
+Do these family offices know your Reddit username is MistaSchlong?
+There are lots of family offices in the world; there is only one of me; I don't have to justify anything I do; I only have to be right.
+
+Nothing about being rich requires you to have a big house. 
+This article is written by a poor person who has self hate of being poor
+Vox is such a shit "news" site. 
+
+And this person is disgusting. I hope her invasive behavior gets her arrested one day.
+So she basically saw that rich people are the same as poor people - they just pay more for their belongings . . . We all need blankets. 
+
+And maybe she can't afford electronics for her daughter because her personality is the type that allows her to illegally pry into her boss's private affairs rather than working hard to get wealthy.
+Just because you're rich doesn't mean you need to spend wildly...
+This!! There is nothing glamourous about being poor. It does not give you soul. That narrative has really taken off and as someone who came from nothing and now has something it's bizarre to me. Maybe I appreciate it more? Maybe I don't. Who is to say. Money doesn't make things better but it makes things easier and there is nothing wrong with making money and spending it on a home for yourself and/or your family. 
+i respect your transfiguration. I can't say I haven't had my fair share of luck in the genetic lottery, (being born in the us etc etc, don't have to worry all that much about money). but I'm curious what is your "something?" kudos to you for coming up in life. 
+
+I was aware of that. The mid point is best, you can die anytime and not enjoy life if you only save. 
+been through that, completely agree with central point of column
+Yes, mid point. Enjoy life. 
+
+Thanks for sharing the firecalc.  That is awesome.
+That was a good read. Really puts numbers into realistic perspective. I hope I can get there one day. 
+Yea...that's because you realized that a million dollars is just not a lot of money.
+[wealth is such a disappointment](http://i.imgur.com/YIVp3rg.gif)
+
+
+Great advice but it sounds like they got lucky on the stock market which is what got them going in the first place.
+Yes - great investments. But the premise of turning active earnings into passive earnings makes a lot of sense. 
+This guy seems to create a lot of his own luck with regards to investments. He spends a lot of time researching the companies he invests in. 
+
+He's very driven, obsessed with becoming obscenely wealthy. Most, like myself, will be happy with "wealthy".  I have no desire to ever own a $1,300 pen or a $3,000  watch. Financial independence is all that I really aim for. 
+
+FTA:
+
+>3. Never Suck Your Thumb: Gather in advance any information you need to make a decision, and ask a friend or relative to make sure that you stick to a deadline. Warren Buffett prides himself on swiftly making up his mind and acting on it. He calls any unnecessary sitting and thinking "thumb sucking." When people offer him a business or an investment, he says, "I won't talk unless they bring me a price." He gives them an answer on the spot.
+
+Interesting. I've noticed that some of my mistakes were where I thought about it for too long. 
+I like the point he makes of being different. How much capital is going into equities at the moment? I've been collecting rentals while others are buying mutual funds. My first refi will net me an extra $1,000 monthly income with assets that I control. I can't control stock prices. 
+
+Buffett is the man. Here's another great summary of his thoughts:
+
+http://www.fourhourworkweek.com/blog/2012/06/11/exclusive-warren-buffett-a-few-lessons-for-investors-and-managers/
+
+If you've been investing for awhile, go with your gut.
+
+There is absolutely nothing incorrect in what he said.
+
+Like him I was also poor. But I was lucky in that my parents taught me these lessons growing up and taught me how to be rich. 
+
+And today, I am. And it's all mental.
+
+I constantly tell people the dumbest thing you can do is exchange time for money. It's a fools game you'll never win. I work, eh, maybe 2hrs a day, and I make a quarter million plus, a year.
+
+I 100% agree with everything he said in this video.
+Excellent video. Very succinct and entertaining. Sadly, most people who watch it will already know most of the points you made which I guess speaks to point eight. 
+The video just explained the red pill - blue pill mindsets. In my experience, people don't get this very important fact : success first THEN money. Money comes after success. People quit before they start and that my friend is a sad fact. Napoleon Hill once said the average american never fails because the average american never tries. 
+
+[deleted]
+I know this was 2 months ago but thanks for the quick insight!
+
+I work 6 days a week and 10 hours a day, and i feel like I'm wasting my life away. 
+
+I'm motivated to make a change
+But where do I even start?
+[He's a hand model baby!](http://m.imgur.com/gallery/kozBF)
+
+
+
+No, seriously the poster could be a day or swing trader, an Instagram model, a marketing guru a drug dealer or even a hedge fund worker (not a manager.... those tend to make more than 6 figures) none of which will help your journey
+
+
+Find a need.... one that people beg for, and fill it.
+Which are must read books in your opinion ? Please share
+Here are a few that I found meaningful in no order:
+
+* Millionaire Fastlane by MJ DeMarco
+* Rich Dad, Poor Dad by Robert Kiyosaki
+* 6 Months to 6 Figures by Peter Voogd
+* Secrets of the Millionaire Mind by T. Harv Eker
+* The Miracle Morning by Hal Elrod
+* Money Master the Game by Tony Robbins
+* Think and Grow Rich by Napoleon Hill
+* Crush it by Gary Vaynerchuk
+
+Many people find I Will Teach You To Be Rich by Ramit Sethi useful, but I found it more meaningful for employee mindset rather than constructing a truly independent wealth generating business. But it does have good tactical tips.
+
+And I'm looking for more stuff like What I Know For Sure by Oprah Winfrey which helps on the having an abundant, positive, against all odds type of mindset.
+
+edit: formatting
+Richest man in Babylon
+Millionaire next door -Thomas Stanley 
+
+Multiple streams of income- Robert Allen
+
+Total money make over -Dave Ramsey
+
+
+Felix Dennis's "How to get rich" is an amazing work, it's part autobiography part warning never to try to get rich and part instruction manual on how to be the boss. The man certainly knew his stuff ( if you liked the millionaire fast lane you will probably like Felix Dennis)
+
+
+
+I'm  also rather fond of the 4 hour work week, but it's a polarizing book, you either love it or hate it.
+
+ (Most of those that don't like it seem stuck on the name, not taking in that it doesn't advocate starting with a 4 hour work week, but if you work your ass off for a few years you COULD cut back to 4)
+
+i cant get enough of rich dad poor dad. it just motivates me.
+Yea 4 hour work week is really great on getting that entrepreneur mindset and thinking different.
+
+I'm the 0.08%? Nice.
+If you make $1000 a year that's 19 dollars a week 2.75 a day 
+
+In the U.S. that's 15 times below the poverty level.  but hey lucky you, you're in the top 58% world wide....of course whats missing is the difference in what lodging, food, entertainment, and transportation costs here compared to say.....Ethiopia.
+Fucking 1%ers. 
+I just posted this for a bit of fun. Playing of the jokes of the 1% etc. Complain to the charity that made it. I just found the site interesting and figured it was pretty relevant to this sub.
+I just wish they made one more relevant to the western world...and less asking for a hand out.
+Speaking of hand outs... You wanna help a man out? I'm only a 6%er. Can't compete with them 1%ers you know.
+Can always use:
+
+http://www.stackmeup.com/net-worth/net-worth-home.php
+
+This will let you do income as well, but income is a **horrible** way to determine % standing. 
+
+So always use Net Worth. But this also let's you break it down by age/race, etc.
+
+Which can be important for a "true picture". Generic standings are fun, but a 25 year old won't reasonably compare with a 45 year old. 
+Shit son, I'm at 6.65 you're a baller compared to me.   :)
+
+
+This is awesome. I have a picture of him and Jay-Z as my wallpaper. Completely legendary. 
+
+
+Where is the 5 hour energy founder at in this article? 
+
+Some really great advice and perspectives on how to approach life. Thanks for sharing this, I think it's one of the best things I read today
+
+[removed]
+[deleted]
+[removed]
+[deleted]
+[removed]
+
+Haunting. Thanks for this. 
+Unreal! What a miserable existence.
+
+
+
+
+ ‘You can live like a king for a while, or you can live like a prince forever.’ 
+
+
+~Steve Bisciotti~
+Round of applause for this guy
+
+
+Good job if you can get it.
+good thing i got an A in public speaking
+Then you too can go from "dead broke" to multi millionaire by talking about what you might do.
+im not as good looking as Bill though
+Well....that's debateable.
+
+Misleading title...but yes...many people are trying to live above their means and this leads to problems, such as debt.
+people don't like to hear it but you need to live beneath your means, otherwise you will almost surely be sorry someday. 
+Isn't the real problem the fact that some have too many means, so they'll never live above them, and many have too little means, so living below them is virtually impossible?
+
+Sure, there's those in the middle that have average and spend too much, ending up staying average or poor. But the statistics don't show those people as the majority. The majority makes $8/hour, which is ridiculous.
+
+My stepfather retired at 43 about ten years ago. He went on 5 vacations or more every year (Aspen, beach house, Italy, South America), got really into racing his Porsches and hunting but after working everyday since he was 9 years old coming out of South "Kill-idelphia" until he retired. He felt very unfulfilled in retirement and started a company to preoccupy himself and now works 60 stressful hours a week and is happier than he was retired.
+
+Not saying retirement is a bad thing just it's not for everyone. Food for thought.
+Pretty simple concept. Keep expenses as low as possible, invest the rest. 
+
+I'm not as frugal as this Pete guy is and I don't make as much money as he did either, yet I'm well on the way to an early retirement. Most people lucky enough to live in a rich country like the USA are capable of this. 
+Brilliant!
+> Most people lucky enough to live in a rich country like the USA are capable of this.
+
+That's what I keep thinking over and over.  I retired at 33 and we live a decent life here in the US.  Materially speaking we live like the top 1% in many countries in the world, yet we spend just above the poverty level here in the US (by being value-oriented, not by making huge sacrifices).  
+
+It's a shame more people don't realize the wealth they have in their relatively high incomes and relatively low expenses here in the US.  Those are the magic ingredients to growing your wealth and reaching financial independence at a young age.
+
+
+Problem is teaching people 
+
+
+Isn't success ultimately somewhat dependent on many factors beyond the person's control?
+
+-Your abilities and talents can sometimes be inherited (athletic, intelligence, artistic)
+-Good opportunities due to your family connections
+-Good infrastructure to support your business
+-Access to good public schools and public universities to propel you into the desired career
+No matter how "self made" you are, you are relying on resources from the society around you. There are roads and laws. Police you can call. Hospitals in case you get sick. So in some strict sense, perhaps, no-one is "self made".
+
+On the other hand, there is clearly a range, from "lots of help" to "not so much help". Some people grow up in relatively poor environments and make millions. That feels more "self made" than Trump, who inherited tens of millions, maybe hundreds, from his father.
+
+So if we think of "self made" as a range from "very" to "not so much", then yes, there is such a thing as self-made.
+I know two men who I would call self made. They arrived in the US after the holocaust with almost nothing and when they passed were multi multi millionaires. They created their own wealth through hard work and gumption. The areas they developed were not populated at the time they developed them. So yes, I think there was a time you could be a self made man. If you are one of the first to an industry, then yes, you can be self made.
+This is like asking the question: Is there any such thing as "man-made"? To answer both question, 'yes'. Man-made merely means that we built something, always utilizing different base materials--found from our environment--that formed out of our control, but were shaped to best suit our needs. In terms of 'self-made', that (genetic/socioeconomic)  base material given to everyone may be different, but it is up to the individual to shape their own experiences and opportunities to best suit their potential future.
+In terms of the resources that society around you provided this is true however these have come from other rich/well off people through taxes and most self made people will repay this debt through their own taxes (some naughty people don't of course) which the next generation will rely on. 
+[deleted]
+I believe that sounds like more of a known issue for latter-generations after the 'self-made'. I would argue that self-mades are more appreciative of whatever positive experiences in their life that motivated them to obtain their success, and thus, would be more likely to give back to the community or specifically, those responsible for those experiences to ensure similar such experiences happen to others.
+[deleted]
+You seem to generalize how complex the psychology of a person is. Statistically, there are very few people who've hadn't been met with several failures on that path to success. 
+[deleted]
+In what way? The fact that they didn't let the failures stop them and kept on pursuing and achieving that success? I'd say they'd deserve it if they felt that way.
+
+I'm just wondering based on your opinions and statements up to this point, would you rather a person flaunt about being gifted an inheritance? Saying they're 'daddy-made' and would have more empathy for the struggles of others because the person who they inherited the money from went through similar struggles?
+[deleted]
+It's not really much of an issue considering you're doing the same thing putting your generalized actions and beliefs in the mouth of 'self-mades'.
+
+
+It would be interesting to see how many dormant titles could be tied to living descendendants who may now sue for their return.....plus the  lands & rights that were tied to that title that may have been sold off wrongly.
+Serious ramifications to hereditary wealth....
+Thanks for sharing a very interesting article. For those in power it is best to let sleeping dogs lie, for those with outside claims, rattle the chains. 
+Precisely.
+Precisely. It's the new elites vs the old ones. Change of blood at the helm.
+
+
+
+
+I very much enjoy Pierre Omidyar saying 
+
+"We sort of skipped the 'regular rich' and we went straight to 'ridiculous rich,' I had the notion that, OK, so now we have all of this wealth, we could buy not only one expensive car, we could buy all of them. As soon as you realize that you could buy all of them, then none of them are particularly interesting or satisfying."
+
+The Billionaires Next Door
+That's why too much money doesn't make people happier, and it's better to give it away.
+
+Are there any actual wealthy people on this subreddit?
+[deleted]
+I'm a great investment.
+
+
+
+
+
+It's kinda crazy. This is one of the founders asking people for feedback on his app when he first made it. Everyone ignored it. [here](http://i.imgur.com/P4yQRIk.jpg)
+Love these kinds of stories
+
+Does anyone know what this costs?
+If you have to ask, you can't afford it. 
+
+
+Get **REAL** good at sports.
+
+Sling crack in the inner cities.
+
+Invent hover shoes.
+
+Code an app that Facebook buys.
+
+Get a bachelor’s degree in African woman's studies with a minor in art history. Obviously.
+Find a need people have, not just a want. But a burning need, and fill that need.  The more people with that need the more you make.   
+
+
+It's one way to get filthy rich
+The most labor-efficient way is to inherit. I highly recommend it.
+[deleted]
+Hooking was the first thing that came to my mind ;)
+
+
+Hell 15 times at a grand a pop is minimum wage for the year .... if you are ugly it's gonna take longer.  
+
+
+http://www.afr.com/personal-finance/budgeting/how-much-money-you-need-to-save-each-day-to-become-a-millionaire-by-age-65-20161227-gtinv7 Daily / monthly / yearly savings needed to become a millionaire by the age of 65. (Note: High rate of return assumed).
+>millionaire by 65
+
+ew. 
+
+you can do it by 40, and if you try hard enough 30. 
+[deleted]
+Too slow plan to get wealty. What if I die before. And older you can't really enjoy wealth as much as young.
+You can be a millionaire by 30 just by saving? Tell me how. The article just shows that a little bit of saving adds up, even if you start later in life, that's all. 
+
+
+Your kids / family / a happy retirement. Again, the article suggests starting much earlier. A low risk / low cost strategy which compounds over time...saving. 
+you can't get to a million at thirty just by saving. but you certainly can get there by 40, a earlier than 65 lol. 
+> A low risk / low cost strategy which compounds over time...saving.
+
+well, there's a bit more too it than that.  this article is saying that if you start at 20 and assume a 12% rate of return, you only need to **set aside** $730 a year.
+
+12% rate of return is certainly larger than any savings account, so this assumes you setting aside those savings into an **extraordinarily risky** portfolio.  for example, the Vanguard total stock market ETF has a 10 year yearly avg performance of [7.23%](https://advisors.vanguard.com/VGApp/iip/site/advisor/investments/performance?fundId=0970), so you'd need to go riskier than that.  Their ETF of only 'growth' funds has a 10-year performance of [8.15%](https://advisors.vanguard.com/VGApp/iip/site/advisor/investments/performance?fundId=0967).  a nice, been-around-the-block blue chip like IBM has return of [8.22%](http://performance.morningstar.com/stock/performance-return.action?region=&t=IBM&culture=en-US).
+
+you'd be very, very hard pressed to find a fund that performs at 12% for going on 45 years!
+
+assume 5%
+
+that's [$5921.76 per year](http://www.investinganswers.com/calculators/saving/million-dollar-savings-calculator-how-much-do-i-need-save-become-millionaire-3677)...sorry.
+Sure - more info always welcome. 
+
+I shared this article because saving is something just about everyone can do and understands. I like the simplicity of it and it really shows the value of compounding savings / returns. 
+
+Not everyone has the means to build a business, invest in real estate, trade forex or found a startup.
+
+Most people CAN put some $ away into their retirement fund. In Oz, employers must do this by law for full time employees. (Superannuation).   
+[deleted]
+Not everyone is comfortable with so much risk. 
+
+I'm not advocating waiting until you're 65. The main point of the article for me was, it's never too late to start. 
+
+
+
+
+
+"there are still approximately 187,500 ultra high net worth individuals (UHNWI) who each boast more than $30 million in net investable assets, excluding their principal residence. This select group of people collectively control $19.3 trillion"
+Since the broadcasting of the event, people have donated $570,000 (as this posting, at 1:15 AM Eastern time, Friday morning) -
+
+**https://www.donaldtrumpforvets.com/**
+
+But the day before the event, he had gotten many of his own friends to donate, as these billionaire friends are also philanthropists at the ready. The following are just the ones he named in his speech, and he says they donated over $5M "and close to $6M" for the veterans. The 9 donations he listed total up to $4,825,000, so there was apparently well over another $175,000 from other people he knows.
+
+That part of the speech starts here - Link skips to 1:12:49; watch up to 1:23:00) -
+
+**https://www.youtube.com/watch?v=2PMynb62GRk&feature=youtu.be&t=4369**
+
+And here's the net worth and Wikipedia profile of each of them:
+
+**1.** **Carl Icahn** $500,000
+
+Net worth  $21.7 billion (July 2015)[1]
+
+https://en.wikipedia.org/wiki/Carl_Icahn
+
+**2.** **Richard LeFrak** $100,000
+
+Net worth US$6.5 billion (October 2015)[1]
+
+https://en.wikipedia.org/wiki/Richard_LeFrak
+
+**3. Donald Trump** himself $1,000,000
+
+Net worth US$10 billion (July 2015)
+
+http://blogs.wsj.com/washwire/2015/07/15/donald-trump-files-disclosure-touts-10-billion-net-worth/
+
+https://www.documentcloud.org/documents/2171174-donald-trump-financial-disclosure.html
+
+**4. Fisher family** $75,000
+
+Net Worth $1.6 billion (Jan 2016)
+
+http://www.forbes.com/profile/fisher/
+
+https://en.wikipedia.org/wiki/Fisher_Brothers
+
+**5. Howard Lorber** $100,000
+
+Net worth -- probably at least $1 billion; he earned $30M in 2014, according to this report from April 2015:
+
+http://therealdeal.com/2015/04/14/howard-lorber-made-nearly-30m-from-vector-last-year/
+
+**6. An anonymous "New York guy"** $1,000,000
+
+**7. Ike & Laurie Perlmutter** $1,000,000
+
+Net worth  US$4.2 billion (July 2015)[1]
+
+https://en.wikipedia.org/wiki/Isaac_Perlmutter
+
+**8. J.J. Cafaro** $50,000
+
+Net worth -- probably at least hundreds of millions:
+
+> Based in Youngstown, Ohio, it is the largest privately owned shopping center development and management company in the United States.[1] The company manages more than 30,000,000 square feet (2,800,000 m2) of commercial real estate throughout the United States.
+
+https://en.wikipedia.org/wiki/Cafaro_Company
+
+**9. Phil Ruffin** $1,000,000
+
+Net Worth  $2.5 Billion (Jan 2016)
+
+http://www.forbes.com/profile/phillip-ruffin/
+
+https://en.wikipedia.org/wiki/Phil_Ruffin
+
+500,000 + 100,000 + 1,000,000 + 75,000 + 100,000 + 1,000,000 + 1,000,000 + 50,000 + 1,000,000 = $4,825,000
+
+#https://www.donaldtrumpforvets.com/
+I for one await a 90% marginal tax rate + tax on high fortunes.
+
+Coincidentally, the US has already all the treaties needed in place, so that folks trying to abandon the country won't be able to dodge those taxes.
+
+All that's missing is a quorum of incorruptible politicians.
+
+
+Percentage-wise, they donated $4,825,000 of their $46 billion or so of possessions, meaning 0,01%. 
+
+Here, have my 2 cents, too.
+People are always generous, as long as it is someone elses money.
+What is your actual net worth? Is it really $200? 
+
+What percentage should they have collectively given?
+4% would have been a good percentage.
+did you give 4%? why the number? Are you suggesting they shouldn't be commended for giving these amounts? They $0 would have been just the same. Also, you assume these donations are their only donations
+
+
+This seems to be an exaggeration of the US, but I dont think that all of our behaviors taken to the extreme make us richer.
+Well I think this video is a kind of extreme. But it outlines the danger of our society.
+Not just the US. I recognized bits of Japan as well, and likely others.
+
+It didn't seem like the most rigorous analysis, but intuitively it's in the right ballpark.
+
+It's the kind of stuff we would generally benefit from thinking about a bit more.  
+Instead of having politics driven by blind ideologies, it'd be neat if folks were somewhat aware of the technical trade-offs of various political decisions so we could move toward more goal-oriented politics.
+
+
+I always say one of the keys to success is taking real action to change your circumstances if you are unhappy with them. Don't be someone who is bitter about their life and does nothing to change it. 
+But.... but.... everything bad that's **ever** happened to me is someone else's fault!!
+
+/r/conspiracy told me so!
+
+It's either jews, or lizards, or..... chemtrails? Probably chemtrails.
+
+
+
+
+I think there should be some clarification about the term "self made". In other words, where did they start?  In my opinion, it's arguably easier to turn $1 million into $100 million than $1,000 into $1 million.
+I'd like to know the numbers for self made millionaires 
+"They start on third and act like they hit a home run."
+There are too many millionaires I think. (3.5 millionaire family's in the us alone) and I'm sure a huge number of those are "self made" by buying a house 40 years ago.
+Phone edit:
+
+"The average age among the millionaires was 62, suggesting most have built up their nest eggs over a lifetime. Among those worth $25 million or more, the average age was 65, but most are still working—1 in 5 owns or started their own company, and 70 percent work more than 40 hours a week. Two-thirds are part of dual-income households."
+
+
+Most people don't understand they paid taxes every paycheck they received.
+[The rich do not pay the most taxes, they pay ALL the taxes](http://www.cnbc.com/id/101264757)
+Just like both articles, you are confusing high-income with wealth. Just because you are making $100k+ doesn't mean you are rich.
+Wealth in my book is assets. At least 2 million in hard assets. 
+I agree. And with that definition, I would say that the wealthy pay a rather small percentage of taxes.
+
+This is essentially a big misdirection.
+
+The issue is that the top 1%/5%/10%/20% earn such a *HUGE* share proportionately that, yes, they do have to pay a larger chunk.  ...That is, let's say, if the CEO makes 100X or 300X or even 1000X as much as the avarage worker, well then, yes it's true that that segment will pay a large share.
+
+In fact, it really should either be larger, or our income should be more equalized.  ...Seriously, we're at levels now that are equal to literally Medieval times, or possibly even Roman times.  
+
+Nothing good can come of such massive hubris.  ...And the Roman (Greek?) goddess who was the punisher of hubris and arrogance is waiting anxiously.  Her name is Nemesis.
+...and own 85% of the nation's wealth.
+Exactly, it's similar to the rich person saying,
+"This isn't fair. I just had to pay nearly $20,000 in taxes for my car! That other (middle class) guy barely paid $2000." 
+The rich guy is paying 10x what the other guy is paying in taxes, but the rich guy is also driving a Mercedes S550 Coupe while the other guy is driving a Honda Accord. 
+[Numbers based on MSRP and the tax rate in my state]
+....b/c they don't spend it in stupid stuff....like $6 Starbucks coffee, $180 cell phone plans, video games, $10 cocktails, et al.  I'm rich ($2.5M).  I got it by NOT acting like the middle class, who are more intersted in living a "comfortable" and visibly opulent life (looking at your FBers) than saving their money.  People look at what the rich have and get bitter, rather than looking at the formula that got them there.  You don't have to create Twitter to become wealthy.  You just have to be wise with what you earn.......which very few people are.
+Yeah, frankly it's hard to grasp, somewhat, due to the fact that the inequality is so extreme.  
+
+In fact, with regard to income taxes, your example doesn't really go far enough.  It would be a bit more accurate (and I mean this literally, not figuratively), to use the $2,000, 15-yr old car compared with a $200,000 yacht, (ratio 100:1) or really more like a $2,000,000 Gulfstream private jet (ratio 1000:1).
+
+When you begin to grasp disparities of that magnitude, then you start to see how things really work.
+/r/iamverysmart 
+Hey, whatever fits your narrative... I'm sure it has nothing to do with globalization, impacts of technology, skyrocketing costs for higher education and healthcare, and tax codes that tax those trying to cross from middle class to wealthy at the highest rate. Nope, it must be middle class people wasting money at starbucks. The false "lazy/bitter/jealous" middle class argument is so played out.
+His point is valid about lifestyle.  If you compare my networth to someone who has made the same income, you would find that I have 10x what the average is because I have lived a frugal lifestyle.  I dont think it has to do with anyone being lazy, consumerism is the real enemy of wealth gain.
+Let me make this simple for you.  How much you spend, directly impacts how much you save.  The more you spend, the less you save.  This isn't rocket science.  Further, in 2000-01, I was homeless in Los Angeles.  In 2006, my wife & I (got married shortly after homelessness ended) made $18k combined while living in Austin (not the cheapest of cities), and had extra money to spend.  In 2013, I became a millionaire.  I've crossed every single tax bracket, socio-economic strata, and imaginary line there is.  Two things greatly impacted my ability to go from homelessness to millionaire.  First, I realized that companies pay for skills.  If I wanted more money, I needed to add more skills or refine the skills I already had.  So, I put a lot of work into improving my speaking & interviewing skills, analysis skills, Excel skills, language skills, etc.  Second, I realized our gov't and society encourage & incentivize indebtedness, and I didn't have to play in their world if I didn't want to.  I looked at my spending and realized I wasted insane amounts of money on things I "thought" I needed, b/c that's what people say.  I started looking around and realize most Americans "just only" themselves into indebtedness.  What do I mean?  Ex.  "It's only a $6 cup of Starbucks."  "Let's buy some tickets to Cancun.  It's only $350.  That's a GREAT deal!"  "Dude, I'll buy you a drink.  It's only $8."  They spend and spend small amounts of money, b/c "it's only" a small amount of money.  But, it adds up.  I have no idea what your income level is, but if you're legitimately middle class, I absolutely, without question, could find at least $500/mo of wasteful spending in your budget.  Most middle class are in the $800 - $1200 range........thanks to TV, internet, phones, eating out, coffee, alcohol, clothes, a new car every 2-4 years, etc.  I'm a multimillionaire, but when we bought our house, we targeted a modest house we could pay off in under 5 years.  We ended up paying it off in 3+.  Our cars were bought used, and will be driven well past 100k miles.  We cook a lot of meals at home, and when we do eat out, often share entrees (we've also lost weight as a result of cutting back on calories).  
+
+My wife & I live a modest, frugal life.  You would NEVER know we are worth $2.5M.  In spite of our modest accommodations & spending habits, we still take awesome trips, eat incredible food.  I have a fully stocked bar with high-end wines & beers.  We dress stylishly, but do so without spending stupid dollars on designer labels.  We live so frugally, we're able to give OVER 50% of our earnings away annually.  I am a middle class, farm raised country boy.  Yet, I am a multimillionaire.  How is that possible if globalization, technology, high education costs, and tax codes are supposed to be keeping me down?  I'm not Bill Gates.  I don't make millions a year.  I have a nice income, live modestly, watch where I spend, and save.  And as such, I have millions of dollars, but look indistinguishable from any other middle class person (aside from the materialism).   
+So is financing everything. Most people spend every dime they make - then some! If they are willing to live cheaply for 10 years or so they can get their money to work for themselves and splurge a little. I think how much we pay in taxes is ridiculous, whoever you are. 
+
+Think about it, we pay taxes on income we make (illegal btw till 1913) we pay taxes on the money we spend that was already taxed...not to mention social security, medicare, and inflation.
+Thank you for being the voice of reason!  And, congrats on doing such a great job saving.
+Agree with all you have said and maintaining much higher savings than average is indeed a stellar way to build wealth. Another way is to increase your income through starting your own business or higher education. The costs of higher education can be staggering and there is literally no way to "save" your way to paying off that debt. If you have $200k in law school loans or $400k in med school loans, you can't pay that back on $28k a year. It's impossible no matter how much you save. Rather than pinching every penny, your effort is probably better spent improving your skills and finding a higher paying job. That's not to say you can't save as well, but it's not a magic bullet.
+
+I congratulate you on your success.
+What do you do, if you don't mind me asking? 
+College expenses are absurd.  But, college simply opens doors.  It does very little for making you successful.  I think people need to do a better job weighing the cost of a degree against the odds of employment AND the potential salary that goes with that degree from that college.  Too many people major in subjects that have low salaries or low employability, in addition to having little cross-over potential.  Meaning, the ability to take that education and cross over into other fields.  We don't teach strategy or problem solving in K - 12, so kids come out and simply major in what sounds cool.  What sounds cool or fun doesn't necessarily pay the bills.  
+
+If you get a highly desired degree from a respected college, and it has some cross-over potential, you're going to open more doors than you would otherwise.  But, the gasoline on the fire for success is skill set.  I am a naturally introverted guy, who's somewhat timid around stronger personalities.  But, I worked (for free) on building my professional speaking skills, interpersonal skills, studied body language, learned how to read personalities and shape what I say & how I say it fit what each personality type likes/wants to hear.  Learning that right there absolutely lit my career on fire.  
+
+IMO, a lot of people watch sports and complain that certain athletes simply don't "want it bad enough" or don't desire greatness.  Yet, those same people are wired the exact same way.  If you approach work saying, "I want to be great at what I do", then you're going to strategically address holes in your skill set, push yourself beyond your nature comfort level, make a commitment to make those around you look and feel good, etc.  And, that's going to pay dividends, b/c you're going to climb the ladder.
+I own a diamond & colored stone import/wholesale company, as well as a retail jewelry design & manufacturing company.  
+
+
+
+The graphic designer who made the second map needs a geography lesson.
+
+
+I wouldnt say all billionaires live like this, my family has a billionaire friend. Hes a pretty normal guy, drives a SL550, ML550, yacht, jet which he rarley uses, has a few houses and a time share but nothing excessive for having 4bill
+Lol apart from the jet that does sound rather minimal for someone worth $4b
+How did he become a billionaire? 
+Yes very, they dont pop up in the headlines. One kids a high school teacher and the other is a portfolio manager at a bank. Overall if you thought they where rich maybe 100 mill, but over all conservative. People even myself get wrapped up in the "glamorous" life, big problem with the media. They didnt get that way by ballin so hard
+I dont want to give up his industry or who he is. But what I can say is that he leveraged loans in order to make money and build properties. In other words he took risks that payed off. 
+Thanks for sharing. It seems that most people who make excessive wealth do so through building properties and real estate in general.
+Yeah thats about right, its just being willing to risk as much as your willing to loose. I just need 5 million and then I can leverage another 2 million and have 7 million working for me. 3 mill low risk, 2 mill medium risk and 2 mill high risk. Then pay off that loan and have 7 mill then leverage another 2 million... Repeat...
+I am looking for critiques if this general framework makes sense. If I focus on these 3 things and learn to do them well will I become wealthy.
+
+1) Frugality. Spending less money. Generally described as 'living below one's means'. 
+
+2) Work. Creating income. Trading dollars for hours or creating residuals. 
+
+3) Investing. Using extra money to generate yet still more money. 
+
+Yes, work and investing do sometimes combine into entrepreneurship, Likewise you could combine frugality and work into personal finances.I tend to think the 3 points above will be most helpful to me. 
+
+So, is there anything missing in this formula?
+This might not sound as pretty as it does in my head, but I hope I get my point across.
+
+There is one crucial part to "Step 2" that you may not realize it's importance. It should not simply say "work", but "work **hard**".
+
+If you really and truly wish to be successful, you are going to have to commit to it. Becoming successful will have to be your goal and nothing else. You should work as much as you can towards your goal and understand that time doing other things cannot be taken back. You enjoy relaxing to a favorite TV show? That's time wasted on something that not only doesn't matter, but can even be watched at a later date. You want to spend a Saturday, heck maybe even a weekend relaxing because "darn, I really accomplished a lot this month. I deserve this." Time wasted. Netflix and video games have killed many college careers as well as the potential success of countless individuals who could not understand how to limit or cut these vices off completely.
+
+I understand there should be some time to enjoy life and not become an obsessed maniac who only cares about one thing, but understand: time cannot be gained back and while you are "taking it easy", and while you are taking a break someone else out there is still getting better, still working, still getting closer to their goal. There is always something you can be doing. Researching, getting free tutorials for whatever you want from the internet, and if you put in the time you will become successful. 
+
+To quote someone, I don't recall who: "Success takes a certain amount of hours of work to achieve, and how long it takes you to work off those hours is entirely up to you."
+All looks good.  One offset of building wealth is 3a) reading a lot.  Read a lot of books on investing and financing and just be educated on the world.  Knowing where the trends are, where the markets are going, what is popular in the world helps.  And have fun with is.  
+
+Ex, I have a car sales background and read a lot on it.  back around 08 when I read that Alan Mulally (Former Boeing CEO, now Ford CEO) was taking over the company I watched.  When FOrd declined bailout money I invested $1,000 @ around $2.13 a share.  Look where it is now.  Reading about something i genuinely enjoyed paid off.  Same with Netflix, Tesla, etc.  
+
+Good luck
+Yes, I left out some motivational adjectives: 'spend *much* less', 'work *hard*', 'invest *smart*'. Thanks for fleshing that one out.
+Thanks for the well wishes. 
+
+I think reading, or more generally, learning, would count as 1a 2a and 3a. I intend to develop my knowledge and skills in these 3 and supporting areas.
+
+
+Great read, thanks man. 
+
+Okay J... "street stuff"...we understand.
+Somehow these guys simultaneously make me realize how much is outside of my control, and make me want to ignore that fact completely and try as hard as I can to succeed. 
+I think when it comes to guys like them part of it's luck, part of it's ability and work. Jay Z is going to be a billionaire someday. If you're happy with a net worth in the 7 figures then, so long as you were born in a place like the USA and you start early, you have a very good shot at it. 
+I'm sure that's the case for most people: part luck, part talent/hard work. I'm new to this subreddit, but would anyone on here really be content with 1,000,000 in net worth? 
+I could live indefinitely on that much if I moved to my wife's home country, the Philippines. 
+Haha, the same is true for my wife's country (Colombia) and my parents' (Bangladesh). Unfortunately I don't want to be abducted and tortured or smell the wonderful smells of Bangladesh for the rest of my life. 
+If you avoid the Muslim areas the Philippines is mostly safe. There's even some nice towns in the highlands where the weather never gets too hot. 
+
+This is some common sense stuff that flies in the face of conventional wisdom that you hear all over the place. I particularly like this part
+
+FTA:
+
+>7 "You can't time the market."
+>
+>This hoary old chestnut keeps the clients fully invested. Certainly it's a fool's errand to try to catch the market's twists and turns. But that doesn't mean you have to suspend judgment about overall valuations.
+>
+>If you invest in shares when they're cheap compared to cash flows and assets -- typically this happens when everyone else is gloomy -- you will usually do very well.
+>
+>If you invest when shares are very expensive -- such as when everyone else is absurdly bullish -- you will probably do badly.
+"If you invest in shares when they're cheap compared to cash flows and assets -- typically this happens when everyone else is gloomy -- you will usually do very well." Truer words were never spoken
+It's really just another way of saying "be fearful when others are greedy and greedy when others are fearful". 
+
+The market hit an all time high. AT&T is overvalued and I can get the same yield from  stocks like LMT. SIRI reached a new high and while I see it secure since it has Howard Stern and all those sports contracts, long term I see tech like Pandora and Spotify being a real challenge. So I sold both AT&T and SIRI. Doesn't this make me a market timer? 
+Not technically. Market timing can be a seasonal thing.  Or trying to time the release of a new product. All sorts of things can qualify. It's basically guessing a bottom.
+
+I look for a low stock price and a company with good assets. Low price with stability. "C" at a buck or even at $26 post split, with 3 trillion dollars in assets, was a no-brainer
+Eventually C is going to bring back its dividend to a more reasonable level. If it gets to say 2%, still modest, at the current price you'll be effectively getting just under 10% ROI just on interest from your $1 purchase. Not bad at all. 
+
+At this point many stocks are valued fairly, or high. I might bite on GLW soon but I'm just as likely to slide more money into fixed income until I find something I like that's on sale. 
+
+Assets do matter, but not if the price isn't low. "C" fits both those criteria. 
+Assets can be shed to help a company survive during a down period.
+
+Everyone should have part of their portfolio in fixed income. Don't become  one of those one basket people, like the gold or silver freaks.
+
+
+^(Do you really want to click a link to the Daily Mail? Here's an article summary. More info below)
+
+----
+
+# 'This better hold my life together': Shoppers left astonished as Prada launches a single 'paper clip' for $180
+
+**Department store Barney's New York is stocking a Prada 'paper clip' for $180**
+
+**The sterling silver clip is 6cm long with the logo embossed on the side**
+
+**Twitter has ridiculed the product that is intended to be used as a money clip**
+
+[IMAGE: Prada has been mercilessly mocked by Twitter uses after marketing a 'paper clip' for $180](http://i.dailymail.co.uk/i/pix/2017/06/25/11/41BB925B00000578-4636988-image-a-18_1498387146757.jpg)
+
+The French luxury brand released a bag that&apos;s suspiciously similar to IKEA&apos;s iconic &apos;Frakta&apos; tote, known for it&apos;s bright blue colour, its durability, and its absolutely massive size.
+
+Earlier this week shoppers were left baffled after Balenciaga marketed a &apos;shopping bag&apos; for $1114 (&#xA3;871), but its seems this is not the only designer label to cause a stir.
+
+People pointed out out on Twitter that the luxe accessory resembles the same bag you probably threw away after dumping your blanket on your bed, which you probably paid less than &#xA3;25 for.
+
+[IMAGE: ](http://i.dailymail.co.uk/i/pix/2017/06/25/11/41BB94C700000578-4636988-image-a-26_1498387290416.jpg)
+
+----
+
+[^(**View archived article at archive.is**)](http://archive.is/571tA)
+
+[^(Why does everyone hate the Daily Mail?)](http://np.reddit.com/r/OutOfTheLoop/comments/3fh0qh/why_does_everyone_hate_the_daily_mail/)
+
+^(Problems or suggestions? Check out /r/dontclickbot. I'm open source!)
+I sort of want it as a key ring. It is nice looking. I am not buying it, but it is lovely.
+Speechless! Would be funny if weren't true.....Are rich stupid?
+Brits do everything better - even the tabloids. So yes, even DM sometimes reports truth.  :)
+It's not a paperclip.  It's a money clip shaped like a paper clip.  So no, maybe you're the stupid person for not actually reading the article.  $180 for a money clip is on the cheap end for Prada.
+Money or paper - still seems too much for its function.
+
+Speaking of stupid and money: I was a brand manager for this bathroom and kitchen fixtures importer. One millionaire ordered a set of french hand made toilet brush and roll holder. All mahogany and golden knobs. Special luxury edition. I will not disclose how much it cost. All for wiping one's a...and cleaning the s...t. 
+
+Yep, surely I am the stupid one. 
+This is the Internet, you can curse.  Also, I always find it funny when people think millionaires are stupid for spending money on things that they wouldn't buy because they're expensive. It's not your money, and the majority of rich/successful people are smarter than the average person.
+"It's not your money,"...true! 
+
+"..... and the majority of rich/successful people are smarter than the average person." - may be, or just got lucky, or were born into money and/or were talented enough not to ruin inherited empires.
+
+".......when people think millionaires are stupid for spending money on things that they wouldn't buy because they're expensive." - there are millionaires and there are millionaires. Trump may be in vein of the aforesaid client, however, hard for me to fathom Buffett, Amancio Ortega, Karlos Slim, Ingvar Kamprad or even Zuckerberg, Jobs et al, going down that alley.
+
+Yes, money gives one great freedom of choice in life, including how to spend it. Personally, just don't like flashy, tasteless behaviour. No matter how legitimate that is. 
+Ok.  There's nothing flashy about a $180 money clip shaped like a paperclip though.
+If you say so....
+
+
+Interesting and quick article.  Didn't know that Gates' father was a lawyer (and one who helped him nail-down his contracts).
+
+How many of us are subscribed here? Show of hands
+
+
+
+I have a goal of interviewing 100 millionaires by the years' end. Considering that my existing network of millionaires is very small, what would be the best way to find and secure interviews with high net worth individuals? 
+Connect with the executive director / chairman of angel investor groups and startup accelerators and talk to them about your project. You can probably get connected that way. Besides, finding someone whose networth is $1m is pretty easy, it's finding the people who are worth $25m+ that's tough!
+Find older people living in nice areas.
+
+In some areas, the homes alone will be worth a million. And since nowadays retirees are expected to have saved enough to cover their own retirements, you'll find folks that are either millionaires or desperate.
+Surely there should be sub reddits for the rich, right?
+WealthX.com
+Interviewing for what? Why? If you don't have good answers, then why should a rich person spend time answering your questions?
+
+If you are just curious, you might read [Richistan](http://www.amazon.com/gp/product/B0013TRQD6/ref=dp-kindle-redirect?ie=UTF8&btkr=1) which is a book whose author did study and interview quite a few rich people. That's about the crazy, high-end wealthy, but [The Millionaire Next Door](http://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1563523302/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) focuses more on the "normal neighbor" style of millionaire.
+It's for these reasons I think op should focus on those with 10 mill and up, less chance of "accidental millionaires" 
+
+(gee shucks sonny, grandma and I bought an acre of desert for 80 bucks then bought a kit house fer 4grand and then I worked my ass off at the steel mill mostly scraping by fer 40 years till the city swallowed us up, wouldn't ya know it now we can sell this house fer a couple of million ......we have a grand in the bank so we might not) 
+
+
+These people aren't millionaires until they sell that house, and even then "buy land, wait 40 years, get lucky" is terrible slow advice.
+If there is, we probably aren't invited.  
+If there are, they seem to be well hidden. The usual ones like r/wealth and r/luxurylife etc. are mostly inactive. 
+I do have good answers to those questions. I don't want to just have random babble with wealthy people - there's an agenda here. I'm interested in reddit's perspective as to how to source these individuals.
+You will probably find more in r/ifiwonthelottery and r/veryexpensive   ......shopping
+
+What about this is infuriating? Life isn't fair 
+you must be trolling me if you dont realize whats infuriating with a bunch of this despicable desert tribe who was put buy western powers to rob the earth while providing no real value to all of our lives .
+It's strange...how cowardly you are as a human being that you would completely unsolicited and out of the blue private message me some random message that says:
+
+> you’re a huge fag
+
+That you don’t have the courage to do that on the public forum where others could read it and immediately see how much of a laughably pitiful degenerate you are speaks volumes about you.
+
+I had no choice but to simply respond to the latest message you sent via your user name - since, unlike you, I’m not afraid to address you directly in public.  Yours are the characteristics of a basement dwelling troll that needs the darkness of private messaging in order to protect a frail and tiny ego.
+
+I would laugh at you if it weren’t so pitifully sad.
+
+Seek help.
+Nøpe. Really don't see the point in getting all bent out of shape over it. Chances are it won't ever directly affect you, so why focus on it? lol 
+why does anyone have to give value to your life bro? What value have you given to anyone?
+[deleted]
+you obviously dont own a car. 
+who me? lol
+You say this now only after you've been called out.  Should have said it before posting a PM like a coward.  Gotta save face, eh?
+
+One wonders why you even bother saying something so unsolicitedly stupid, however, as I never even bothered addressing you directly on anything and don't even know who you are.  You're little more than a basic, troll stalker at this point.
+
+I guess continue enjoying living in your mom's basement?  *shrug.
+[deleted]
+yes you, you silly boy, who else.
+Did  you watch the doco? Do you realize you dont have money for a new car because of the guys in it ? you sound like a slave
+How do you know i haven`t given anyone value to their life? 
+come visit me on shemale_gifs - i upload a shemale once in a while 
+i think you will appreciate my contribution and value to ppls lives ....
+Lol ok
+
+
+
+The problem is that money is not of equal value at all points in a persons life. What are you going to do with $50M when you are 100 years old? It's almost worthless. Money's value probably peaks for a few decades as a young adult, when you want to travel the world, need to buy a home, maybe a vacation home, have kids and pay for their education.
+I could see this advice being valuable to someone who figures "My family name will start with me! Even if I never see the results."
+
+But in the end, people who are doing this, already know to do this. People who only *want* to do this, can't afford to do this.
+
+Thus rendering this article kind of moot.
+
+Somebody look up those ships and find the owner lol
+Arrrrrrr 
+This is amazing! I wonder how long it took him to streamline his business model, or even get started in the first place!
+This is the best tl;dr I could make, [original](https://medium.com/entrepreneur-s-handbook/i-sat-down-with-a-millionaire-who-operates-10-businesses-while-sailing-around-the-world-with-his-338929c4e8c9#.n6ckxepgg) reduced by 87%. (I'm a bot)
+*****
+> He was a writer and senior lead auditor of the ISO 9000.The ISO 9000 is a globally-adopted, quality business management standard used by huge brands with support businesses located internationally.
+
+> His businesses include a skateboard and BMX shop, a network of pawnshops, a consulting practice, a musical instruments shop, an Internet sales business, a real estate development and management firm, a firearms shop, a marine products online store, a standup paddleboards shop, and a visual displays store.
+
+> Each manager is trained in the same principles of the ISO 9000 and is given full control of their business.
+
+
+*****
+[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/3uzqvw/i_sat_down_with_a_millionaire_who_operates_10/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ "Version 1.6, ~18899 tl;drs so far.") | [Theory](http://np.reddit.com/r/autotldr/comments/31bfht/theory_autotldr_concept/) | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr "PMs and comment replies are read by the bot admin, constructive feedback is welcome.") | *Top* *five* *keywords*: **business**^#1 **more**^#2 **ISO**^#3 **sell**^#4 **shop**^#5
+
+Post found in [/r/business](http://np.reddit.com/r/business/comments/3uumkq/i_sat_down_with_a_millionaire_who_operates_10/) and [/r/wealth](http://np.reddit.com/r/wealth/comments/3nv82k/millionaire_operates_10_businesses_while_sailing/).
+
+
+
+
+If I have $5k and am at the beginning of a growing career but I have 50k student loans to pay off... what's a good way to spend that $5k, put it towards loans or defer said loans and invest it in X idea?
+I am more interested in the latter so.. if you chose the X idea, what is that idea? Namely, what are some good short-term ways to grow $5k?
+Try /r/stocks or /r/personalfinance or /r/investing, you'll get more help there
+I don't know the right answer, just spitballing here, but I don't feel like 5k is that much to invest.  It would be very difficult and risky to turn such a small amount into a large return, don't you think?  Unless your investment can beat the interest on your loans, it might more sense to just put the money towards your debt.  It's not very exciting, I know...
+It depends on your loan rates. Let's look at two options: 1) invest it; and 2) pay off the loan. 
+
+Option 1: Because you are young, your risk tolerance should be higher, which means that you should prefer stocks over most other types of investments. Over the long run, the stock market as a whole has returned about 6-7% after inflation. You will get the most diversification (risk reduction) by investing in a low-fee whole market ETF like Vanguard's like the Vanguard Total Stock Market ETF (VTI). If you don't expect to use this money until retirement, put it in a Roth IRA to get tax benefits when you withdraw on it as well. The important number here though is your expected rate of return: 6-7%.
+
+Option 2: Paying off the loan will effectively grant you the positive rate of return equal to your interest rate. 
+
+If your interest rate is higher than 6%, then you're better off paying off your loan; otherwise, you should probably invest it. 
+
+A big caveat: You are not likely to "win the lottery" by betting on specific stocks or any other type of asset. You are not a stock market professional, which puts you at an information disadvantage in the "idea" game. In sum, there are no short-term get-rich-quick schemes because if there were, everyone would do it.
+Where are you located? 
+second this. Check the /r/personalfinance sidebar. They have some basic "x just happened, what do I do now" or "i have x to invest, what should I invest in" topics that will probably cover your situation. 
+Ahh, thank you.
+I'm not looking to win the lottery but it would be cool to have a side-business idea to invest in.
+
+
+
+
+Is Wendy's chili good enough to make? That would be a nopedy, no, nope. 
+I like it. It's good, but mild. I make my chili a bit different than Wendy's does. 
+
+Also, there's more to learn from this than the part about trying to copy Wendy's recipe. 
+
+
+
+
+FTA:
+
+ Now that he’s living the goal he novelized, I asked Chevreau whether he’d amend any of the five rules his book laid out on achieving financial independence:
+
+1. Pay off your home in full.
+
+2. Find multiple sources of income for retirement. 
+
+1. Pay off your home in full.
+
+2. Find multiple sources of income for retirement.
+
+3. Develop “guerrilla frugality” habits.
+
+4. Save 20% of your gross income.
+
+5. Invest with a “Lazy ETF” portfolio — selecting, say, three Exchange Traded Funds (a U.S. stock fund, an international stock fund and a U.S. bond fund) and holding on to them, rebalancing as needed.
+
+That's good advice for those who wish to retire by 61, as his guy did. I'm saving a good amount more than 20%. 
+In short, have a plan.
+Yep. Don't take anything for granted, don't expect someone else to take care of things for you. You aren't entitled to very much in life but as an American you do have the opportunity to get almost anything you want. 
+
+
+
+Thx for this :) 
+
+
+
+
+I love examples like this! 
+
+1. Choose something you want to do, even if it's already done by others
+2. Do it better than the others, or at least better than most
+3. *Go sell* your product
+And have fun doing it!
+
+Dallas Federal Reserve? NWO Bankster propaganda! /sarc
+
+>If our teenager were willing to save $10,000 per year - an easy task for those who start out with that goal and avoid credit card debt - at a 12% annual rate of return, they'd have $83,692,000+ by the time they were Buffett's age!  If our teenager were willing to save $10,000 per year - an easy task for those who start out with that goal and avoid credit card debt - at a 12% annual rate of return, they'd have $83,692,000+ by the time they were Buffett's age! 
+
+A 12% return is a pretty wild assumption. 
+
+
+I can feel his pain....NOT! :)
+title :D
+
+Well I think his money was mostly stored in US dollars, so probably not.
+Hmm, ok, i guess youre right
+
+
+
+
+
+What would happen if that wealth disappeared? I think they would make better music.
+It does make you wonder if she is still developing her music of if she is trying to sell how it sounds now.
+
+
+Also Have you ever noted how many heiresses try to design dresses and handbags? you never hear of one trying to finance a steel mill or buying an apartment complex.
+Well imagine they go into business trying to work in fields they are familar with opposed to ones they have no interest or knowledge in. I think she is trying to sell a song for her own self glorification and for admiration from others. My opinion. 
+
+Reminds me of the movie called Red Obsession.   Excellent stuff. 
+[Louis Vuitton is now a 'brand for secretaries' in China](http://www.businessinsider.com/louis-vuitton-losing-sales-in-china-2015-2)
+
+
+
+
+Im not sure "disrupted" is the way i'd describe it.
+
+As a non plane owner, it can be bothersome to request several quotes, have one come in 5 hours after you have made other arrangements  and be 11k cheaper for the same type of jet.
+
+
+
+
+This is the best tl;dr I could make, [original](http://www.bloomberg.com/news/articles/2015-04-21/new-york-apartments-art-top-gold-as-stores-of-wealth-says-fink) reduced by 82%. (I'm a bot)
+*****
+> Gold&#039;s traditional role as a store of wealth has been usurped by contemporary art and apartments in cities such as New York and London, according to Laurence D. Fink, head of the world&#039;s biggest asset manager.
+
+> &quot;The advent of ETFs for gold made it much easier to own gold and it really democratizes gold,&quot; Fink said at the 2015 Credit Suisse Megatrends conference.
+
+> &quot;I don&#039;t believe people believe gold is a great store of wealth today."
+
+
+*****
+[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/33xbfn/new_york_apartments_top_gold_as_repository_of/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ "Version 1.5, ~11995 tl;drs so far.") | [Theory](http://np.reddit.com/r/autotldr/comments/31bfht/theory_autotldr_concept/) | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr "PMs and comment replies are read by the bot admin, constructive feedback is welcome.") | *Top* *five* *keywords*: **gold**^#1 **wealth**^#2 **store**^#3 **percent**^#4 **price**^#5
+
+Post found in [/r/Economics](/r/Economics/comments/33x52f/new_york_apartments_top_gold_as_repository_of/), [/r/wealth](/r/wealth/comments/33dpsw/new_york_apartments_art_top_gold_as_stores_of/), [/r/StockMarket](/r/StockMarket/comments/33cof7/new_york_apartments_art_top_gold_as_stores_of/), [/r/news](/r/news/comments/33codt/new_york_apartments_art_top_gold_as_stores_of/) and [/r/business](/r/business/comments/33coeu/new_york_apartments_art_top_gold_as_stores_of/).
+
+[deleted]
+The ONLY reason I know who she is was because of "newlyweds" (a reality tv show she was on) and the fact that she "played" a person so stupid that my friends made me watch so we could laugh at her. 
+
+
+I'm trying to empathize with this person but they seem to have such a negative attitude throughout. One might assume that it's why they say being rich at such a young age is not as good as people may think. Perhaps they don't quite have a lot of "life" experience?
+Im not sure I'd call it totaly negitive, he mentioned giving gifts instead of loans (neither a borrower nor a lender be) but he does seem to always be questioning the motives of those he surrounds himself with.
+
+I think a darker tone would be saying just rent friendships and bed partners, at least then you know what they want.
+
+Well put 
+
+
+
+
+
+
+FTA:
+
+10 most popular colleges for billionaires
+
+Of the top 20 most popular schools for billionaires — in terms of the number of billionaires who have obtained their bachelor’s degree at these institutions — 16 were in the U.S. Not surprisingly, Ivy League schools top the list, with the University of Pennsylvania — home to the high-powered Wharton School of Business — nabbing the no. 1 spot, followed by Harvard and Yale. But several non-Ivy schools punctuate the top 10, including the University of Southern California, the University of California, Berkeley, the University of Mumbai, and the London School of Economics and Political Science. 
+Education pays dividends..
+
+Lazy portfolios are great and are the best way to go for most investors. If you are someone like Paul B. Farrell who is always seeing huge disasters coming around the corner, or even the opposite someone who is TOO optimistic, then the lazy portfolio strategy can save you (and your retirement) from your own emotions.
+Absolutely the way to go for almost all of us.  As Buffett says, if you're lucky enough to have some money left over to invest (after presumably paying off/for all your other stuff), then he recommended putting about 90% in a broad-based, low-fee index fund or ETF, such as the S&P or Russell 5000, and maybe do the last 10% in a similar bond fund.
+
+If you're doing that and you're getting in some tax benefits via 401(k)/HSA/IRA or what-not, then you're as good as can be hoped.  Do it , breathe easy for the long haul, stop thinking about it and get back to work or get on with your life.
+Buffett laughs at the efficient markets people in his letters, but he also realizes it would just be absolutely reckless to encourage ordinary people to try and emulate him. Most people simply do not have the necessary skillset. 
+
+For the vast majority of people out there a lazy portfolio that can take as little as 15 minutes per year to manage is clearly the best way to go. 
+
+
+I thought this article said "How to prepare for retirement in your 20s" and I got excited. Because that seems like the perfect time to retire.
+
+
+
+
+There are over 1500 billionaires? Crazy! I would never have guessed there were so many.
+
+
+
+
+
+Fta - "You cannot help people if you're putting yourself in the position of needing the exact same help."
+
+Great advice, which I've lived by these last 7 years.  It's made me a multimillionaire.  I just wish I'd practiced "saving" more vigilantly the previous 8.  My first 8 years out of college, I wasn't wise with my money.  It's almost impossible to not be stupid with your money in your 20s.  I wasted a lot of time and compounding interest buying "stuff"........none of which I still have.  
+
+I'm constantly preaching this message to my employees.  Some listen, most don't.  They'll regret it one day, the same as my big spending friends regret having a garage full of stuff and not a bank account full of money, and the flexibility that comes along with it.  
+Hm... I'd love to save, I just don't earn enough yet and am, ironically, living off of another person's savings, gifted to me.  (Yay fresh-out-of-college!  At least I'm not in debt.)  You wouldn't happen to have any openings, would you?
+All you need is a little bit of knowledge and the right attitude to be a success in the USA. To become a multimillionaire in just seven years is *incredible* success. Congrats!
+
+I shared the article with a colleague who manages fresh college graduates. Hopefully someone learns from it.
+I'm not the guy you're replying to, but a lot of people do make enough to save and either don't know or won't admit it. Do you ever make any frivilous purchases? This includes coffee from Dunkin/Starbucks/McD/etc, eating out, data plan on cellphone, cable television, etc. Every penny counts. 
+Recently started brewing my own coffee at home, typically just drank the free stuff at work.  It was an experiment.  Don't have cable, cel's about $40/month and my *only* phone, out of home food costs are typically social events and once a week at most.  
+
+Am I 100% frugal?  Alas, no.  Did I really need to spend $0.67 on a hamburger the other day?  No, I guess I didn't.  However, my last week's paycheck was about **$160.**  Discipline's great and all, but only goes so far.  Looking for a new one, though, and the plan is to invest a couple grand a month once I get a *decent* job, and that's *with* my planned $40/month socializing/fun budget.  Hence the request.
+I make around $35k and save $500 a month. It's nice I guess but it feels like a drop in the bucket. 
+Yeah, a simple income problem. Continue on looking for that first "post-college job". 
+Drops in the bucket eventually do fill up the bucket. 
+
+Plug in $6,000 per year into an online compound growth calculator. Feel free to assume 7% interest and see how that goes after 30 years. 
+
+http://www.bankrate.com/calculators/savings/compound-savings-calculator-tool.aspx
+Exactly. $588k in 30 years.  That's really not much at all in your 50s
+That's a very good start. You should be increasing the amount saved with every promotion and raise. 
+Yeah. You're right.  I'm just feeing trapped at my income level. I need a better job
+What field are you in?  
+I'm a "data analyst" but really I do internal audits for data quality.  I don't have much technical skill and got a degree in economics.  I'm not sure where to go from here. 
+You can go anywhere. Get experience in something within your own company that can lead to a higher paying role. Your degree is just a foot in the door. Experience is what really counts.
+Thanks. 
+
+
+
+
+
+
+
+
+
+trying to get to 100,000 views.  Like - Share - Love
+How can we really make some money? It is the same as [how to become a millionaire](http://www.millionairemindevents.com/blog/how-to-become-a-millionaire/)? I think it all starts with developing the right attitude and taking the right actions.
+
+Upvote for Professor Eagle
+
+
+Thanks! If you or anyone with an interest in the subject would like to mod send a pm or modmail.
+Just a comment to the mods who designed this, in RES night mode, everything is screwed up.
+Thanks, will take a look.
+Hi, anyone in Property in the U.K. who could offer some advice on letting to buy?
+
+I renovated our family home over the last year or so. Did it to a high spec and we're located within a couple of miles from 3 of the top state schools in Scotland. My son is only a year old so no requirement for schools at the moment. As such I wondered whether letting to buy was a feasible option. Obviously buying further away from home to leverage off cheaper properly prices and potentially down sizing. 
+ 
+Primarily so I don't have to work so much, and can focus my time on family and other business ventures. 
+
+Our house could let for 2 k per month and I need approx 1.1k to cover our mortgage here. 
+Obviously there are tax / stamp duty / maintenance and general tenant Issues / implications but has anyone pursued the let to buy option with view of avoiding the 9 - 5 grind?
+I figured with the ""free" cash, less tax, I could mortgage a place for circa 600 a month. 
+
+Thoughts and advice greatly appreciated. 
+
+
+
+
+I wonder if there is even one legit member. 
+*'Custom Plague to be sent directly to you by post'*
+
+I wish I could afford my own plague
+Bwahahaha
+
+
+No for real guys!    Pay me a million dollars and I'll totally let you into my super secret club!
+Why does their design look super cheap? Lol i went back to see if this was posted on r/shittykickstarters. 
+There are companies that connect wealthy businessmen with other businessmen for far less money. Most of the fortune five hundred have these kinds of professional contracts in place. To have access to the right people through a third party.
+Made by a 12 year old that got a html and css book for his birthday.
+
+Also know as: JOSEPH GALEA
+
+Just wondering where is his cut from it.....
+
+
+Maybe they'll teach the difference between correlation and causation there?
+You mean dropout from right?
+
+The main reason I have this question is because of reading "Study Finds Global Elite Hiding Up to $32 Trillion in Offshore Accounts" in the past and the recent panama papers. I'm wondering how someone with millions or even billions of dollars would move that amount of wealth to an offshore account or in any other illicit way. Is it usually in the form of currency or some other asset?
+Start a front company. 
+
+Here's an **extremely** simplified version:
+
+Step 1) start a company. We'll call it a Holding company (like Berkshire). 
+
+Step 2) "invest" 20 million in said company 
+
+Step 3) do nothing, operate at a loss every year, and have only one employee, you, who collects no salary but is entitled to lump sum bonus payments at the discretion of the Board, of which you're also the entire Board.
+
+Now, that money is effectively untouchable. Sue me as a person all day long. That 20 million isn't "mine" it's a company's, of which I'm just an employee.
+
+You also can't tax me on that $20 million. If anything I'll write it off my taxes as an operational loss investment. 
+
+The company pays it's taxes though, of $0 dollars on $0 dollars in profits.
+
+Poof.... $20 million safely stored out of government or lawyer reach.
+
+Wash, Rinse, Repeat.
+I think it's disguised as an investment, or a payment.
+
+Suppose you're buying a million dollar machine for your company. You say it costs 2 million, and half of this payment goes to someone outside your country (your offshore account in the name of your wife, or kids) for any reason. Or your offshore company buys the machine, and sells to your real company for twice the real price.
+You know that question now has you on a list someplace. *Cough*moneylaundering*Cough*
+
+Honestly It seems as though most of the panama papers seem concerned with people "investing" in a company that they in a way own and or control (if you invest, usually the money invested isn't taxed until it makes a profit......if that company then buys a house,car, or airplane it isn't profit till it sells)
+
+Most of it legal....most of it, shady, but legal.
+
+
+Other ways of moving large sums oversees, 
+
+  Buying property (see the china land rush in vancouver and cali. and the middle eastern and russian moves to New York and London)
+
+  Investing in legitimate business.
+
+  Buying and then selling a yacht in a far away land.
+
+  Good old money laundering.
+
+  And[ taping bills to someone](http://i.imgur.com/FBbjgPZ.jpg) who is going someplace else.
+
+Those last 2 are illegal......if you get caught.
+> I'm wondering how someone with millions or even billions of dollars would move that amount of wealth to an offshore account or in any other illicit way.
+
+Offshore accounts are not illicit. Unless your country happens to have capital controls (which is pretty rare), it's as easy to move money overseas as it is to order a pizza - click a few buttons on your computer, or spend a minute or two on the phone. Doing perfectly common, legal things tends to be pretty easy.
+>You know that question now has you on a list someplace. CoughmoneylaunderingCough
+
+http://i.imgur.com/jvsIqgz.gifv
+
+WHAT! Rich people hiding money??? I'm SHOCKED! SHOCKED I say!!!
+
+With a 75% tax on all wealth over 1 million I'd leave too.
+
+I wonder where Monaco falls on this list. 
+For people who live there? Maybe not too high. For people that *travel* there? Definitely.
+
+To get to that number we may have to find out how much he is now legally avoiding rather than assume he is paying the maximum amount of taxes he could pay.
+
+
+
+If you figure that out I'm sure the irs would love to hire you. 
+
+Definitely a good reminder.  When my wife and I married, we bought substantial life insurance and had small deductibles on all our other policies.  As our nest egg has grown, we've regularly increased our deductibles and reduced our life insurance coverage.  Each time, we earmark the cash saved from lower premiums to further increase our savings.
+
+This stuff applies to more than just basketball.
+
+
+
+Man with a who may be somewhere on the autism spectrum fills house with tv's
+
+
+
+
+I'd say the only difference between this guy and your wired uncle is wealth.
+
+
+
+
+
+
+
+
+Bullshit, he was happier when he knew how to spend all of his money?
+
+"ahhh I long for the days when I was a simple peasant, all of this money is such a heavy responsibility, I think I'll go get a massage" 
+I'll be happy with his money
+
+If I could paint it.... It's not art in my eyes 
+
+Give me a photorealistic painting by an unknown over crap by a famous person any day of the week.
+
+
+
+
+I rather be rich than not. 
+It's easier to cry in the back seat of a limo, than on a  bicycle.  
+Hey, I like bikes!
+you could cry with your bike in the back of a limo, if you wanted.
+
+live life, buy stuff, hug my wife, travel more,  probably be more aggressive in business
+Too much money to get good answers.
+
+Let's assume I have 50 years left. That's spending $20,000,000 every single year, for 50 years.
+
+But as I'm spending it would be making money for me in interest, dividends, etc.
+
+So I could likely spend more.
+
+So your ask what's I'd buy or fo. And the answer is: Anything. 
+
+Maybe I'll take my plane to Tokyo tonight and drink scotch and champaign on the way. 
+
+Maybe I'll spend a week in Thahiti. Or two weeks. Or 5.
+
+Hitting the Bazaar in Turkey might be fun next weekend.
+
+Always wanted a Lamborghini, or 10.....
+
+You see? It's a meaningless question because it's too much.
+
+Whatever you wake up thinking about you could go do.
+
+Start a Foundation, build a museum, buy a sports team.
+
+I'd personally wake up, see how I felt, then do that thing.
+The boring answer: keep 1% to live on, set up the rest into a foundation that endeavors to save the world in some fashion.
+
+I am in the process of setting up a business to build affordably priced,  sustainably designed passive heating /passive cooling housing here in Australia.  A cool billion would get us up and running and basically taking over the housing market here very nicely.  
+
+Lean start up is so last year.  
+
+Sing, write, paint, compose, act, dance. 
+
+Then buy an army and a small country and become the foremost financial tax haven in the world.
+
+Then conquer space. 
+What does "live life" mean exactly?
+
+Buy what "stuff"?
+
+Where would you travel to? Would you travel by private jet?
+
+What do you mean by "be more aggressive in business"?
+What I meant is that generally I wouldn't try to change the basic elements of my life too much.  I'd probably want to swap out some of the older items in my life with newer/nicer ones.  And instead of picking up, say, one rental house, I'd buy a high rise apartment building. 
+
+
+
+Smart with business, but the man does not tip. Not a dime. 
+As we live, we learn
+Maybe him, too. My cousin was a bell boy at a local casino where Michael Jordan owns two restaurants and a sports bar. He goes there all the time to gamble and check on his investments. One time he brought up stuff for Charles Barkley and Michael Jordan. Not a dime from these guys. Rich no-name guys who stay on the same floors usually tip pretty well. This is why that bell boy job is very competitive. The guys with the best shifts and access to the best floors make six figures there. 
+
+When he was doing valet he had a lot of athletes who didn't tip or didn't tip well, others who did tip well. Ray Allen tips very well. 
+As we live, we learn
+
+
+
+
+
+
+
+I have the Barry Bonds rookie from Fleer sitting in a box ready to go to Goodwill. It's not even worth selling at this point! 
+
+
+
+
+
+Mostly this is all common sense, planning, and self control.
+
+What's the point of this article? No shit Wharton has good placement rates, they're one of the best business schools in the country. 
+FTA:
+
+More than 80% of the class is expected to receive average signing bonuses of nearly $10,000, on top of annual bonuses at over $26,000 each, more than what many MBAs get. And the base salary for these undergrads? While the numbers aren't in, last year's class averaged an enviable $67,986 -- and this year the average is likely to be slightly higher.
+
+Wharton is one of the most respected, and selective, undergraduate business programs in the country. The University of Pennsylvania has a 12% acceptance rate, and it doesn't break the statistics down by school -- though rumor has it that Wharton is harder to get into than Penn. It's not difficult to understand why: Besides the obvious rewards after commencement, students at Wharton have the opportunity to take classes in any of the four undergraduate schools at the University of Pennsylvania, while also studying with leading professors of business and innovation in their own program.
+Did you start or finish a book? Attend a seminar? Work on a side business? Invest? Save?
+
+I am a college student starting early, I am working gigs as a staff member starting this weekend and saving that money, I am reading a book called "The 10X Rule", and I am working on an entrepreneurial project with two friends that can launch this August.   
+
+I believe this subreddit has A LOT of potential in the discussion of wealth. Hopefully this can be a start of more frequent posts. 
+Wow 12 hours and not a single comment? I do wish this sub was more viewed and interacted with. Does anyone have any good book suggestions about wealth and saving? Oh and I wish you the best of luck in your entrepreneurial endeavor. 
+Good question. This month, for the first time, I did a REAL dive into my cash flow situation since CY 2014 began. I was able to put together enough data to then build a suitable monthly budget covering Apr-June. Lastly, put together the first draft of a comprehensive financial plan, which will be my "roadmap" to increases in personal wealth. 
+
+It has been a very slow process, but rewarding.
+Continued paying off debt, and chased up invoices for side business of hosting/maintaining websites. 
+Tried and true, *The Richest Man in Babylon*. Available in free pdf form:  http://www.ccsales.com/the_richest_man_in_babylon.pdf
+
+Available as a free audiobook:
+https://www.youtube.com/watch?v=kg0j3CK6Gh4
+
+The *Rich Dad, Poor Dad* series is secondary to the RMIB, in my opinion.
+
+Edit: italics
+Thank you, thank you. 
+
+I second ScopePerspective's comment. I've only heard good things about *The Richest Man in Babylon* and *Rich Dad, Poor Dad* is great too.
+Awesome. I'm looking to put together a roadmap myself.
+Check out investor.gov and search term "roadmap" to get another view of how you might put yours together. Wishing you the best.
+Very interesting. I have the PDF up now and I'm going to print it and read it later. Thanks!
+
+
+
+Published on Nov 20, 2012
+Infographics on the distribution of wealth in America, highlighting both the inequality and the difference between our perception of inequality and the actual numbers. The reality is often not what we think it is.
+
+References:
+http://www.motherjones.com/politics/2...
+http://danariely.com/2010/09/30/wealt...
+http://thinkprogress.org/economy/2011...
+http://money.cnn.com/2012/04/19/news/...
+
+
+True, hopefully people Will begin to understand that, and instead of feeling envy or hate when a Nice car drives by, they should feel joy and admiration, joy that someone has made it, admiration at the passion put into getting it, and last and most important, Motivation to be better!
+Sounds pretty spot on to me
+
+Source:  I'm a business owner whose customers are all wealthy business owners themselves
+You're 20. You know little about the real world, so stop writing like you do. You really should spend more time listening than trying to be right.
+I know a certain rich person that says "never say never". 
+
+
+
+
+Something that this short article doesn't touch on, and that many people miss, is that in starting both his student magazine and his mail-order record business (which evolved into Virgin), he found ways to get paid *before* having an actual product to sell.
+
+With his magazine, he used his mom's money to call advertisers, and when he got enough clients to purchase advertising he then had the money to print the magazine.
+
+With his record business he started out by handing out leaflets at concerts selling mail-order discount records. People sent in payments and then he had the money to actually buy the records to send them.
+
+I watched this two summers ago. And *Capitalism: a love story*.
+
+I just bought my tenth house Friday April 5 because of Clay Duke's statements. It alerted me to an alternate timeline for my life that only I could build - to become wealthy, I had to seek rents. The book *Family Wealth* (in the movie) has a preview available at Amazon. The book alone was enlightening and motivating. 
+ 
+I have consumed every piece of information on how the rich are different, and how i can become a millionaire. Kiyosaki is the obvious one. But Dan Shafer's blog has succinct arguments too. 
+
+Also see /r/greed and /r/economics
+
+For me this wasn't about taking some rich people, putting them in front of a camera and trying to make an example of them. This was an educational film projecting what really goes on inside the hearts and minds of the 1%. The fact that these people truly believe that the way the world is today, is good and right. If not as strongly then more than we believe that it is wrong.  
+/r/greed
+
+
+
+
+
+
+
+
+> A tax refund is to many Americans what a bonus is to Wall Street bankers—it's the largest lump sum the average household sees all year. 
+
+Only the second largest of the month. Corporate profits are high and so are the employee bonuses! 
+
+So what? Not every rich man is American.
+You don't find it interesting that the richest black man in the world comes from one of the poorest and most poverished 3rd world country?
+3rd world countries are in many ways easier to make a fortune in than developed countries, so no. The world's richest man is Mexican.
+good point
+
+
+Hard work and thrift have always been virtues that people who build wealth possess. Mitt's such a great man! 
+
+FTA:
+
+> Thrift was a family virtue. Ann Romney used to cut her sons’ hair in the backyard. Her husband would tackle home renovations himself. Once, he enlisted everyone — for six weekends straight — in building a fence around their large home in Massachusetts. A Mitt mantra, recalled Spencer Zwick, a family friend, was, “Just because you can afford something doesn’t mean you should buy it.” 
+
+
+
+
+
+
+
+
+
+
+
+Only 4 states listed.  
+
+How well you do in life purely depends on WHERE you were born. Despite any attempts at ascribing a sense of purpose or meaning to where or to whom you were born, no one can claim that being born where they were was within their own control. 
+
+The article provides a more nuanced explanation. And this [Princeton speech by Michael Lewis mentioned in the article] (https://www.princeton.edu/news/2012/06/03/princeton-universitys-2012-baccalaureate-remarks) makes a MUCH stronger case for the concept of (obscene levels of) wealth being more a product of circumstance and less of innate talent or hard work.
+More bullshit attributing wealth to everything but taking action
+Being born upper crust may help, (hell some people are born on third and act like they hit a triple so the saying goes) being born white or male is definitely a push in the right direction, but unless you are incarcerated or actively under the boot of your oppressors then for god sakes move! People are not trees!
+
+Don't like your environment? Move.
+
+Don't like your government? Move. 
+
+Don't like your neighbors? Move
+
+If you think that the only way out of your hood is with a ball or a gun in your hand, for the love of the gods run, don't walk, to the edge of your city and catch the first bus out!
+
+No one ever got rich with standing in a rice paddy with an ox on a string!
+
+Will you get rich? Who knows but you will be miles closer than the guy sitting in the dirt or on a couch or in a boardroom whining that life's not fair!
+
+
+I think you're missing the point here. He didn't say wealthy people didn't work hard. He is implying "rags to riches" via pure hard work is nearly impossible. And he's talking about the obscene levels of wealth we see concentrated in the hands of a few. No one said you couldn't build a decent life with just pure hard work. There's a difference. 
+Doesn't sound like you got the point of the article/ speech. This isn't for people who are working to get rich. It's meant for people who already are to remind them that circumstances beyond their own doing do tend to play more of a role in their wealth than they are willing to acknowledge/ admit. 
+
+This isn't about whining that life isn't fair. 
+> How well you do in life purely depends on WHERE you were born.
+ /u/prit04
+
+
+And I'm saying ...move
+
+This article strikes me as an argument for why people cant do better when they don't try to better themselves.
+
+And if you are rich...why you don't deserve it because....birth.
+
+>  According to Thomas J. Stanley's book, "The Millionaire Next Door: The Surprising Secrets of America's Wealthy," only 20% of millionaires inherited their riches. The other 80% are what you'd call nouveau riche: first generation millionaires who earned their cash on their own. [Link](http://www.investopedia.com/financial-edge/0810/7-millionaire-myths.aspx)
+
+Do the rich get richer...hell yes its called leverage (ever hear that your second million is a walk in the park?)   but to say that they would never have gotten their first 100k if they had been born James kickingbird rather than James Harrison the 4th esquire is laughable.
+
+
+>  "luck is a poor mans excuse for for failure and a rich man's apology for success" 
+Can you hope to be a billionaire in Syria or Iraq right now? How many people "moving" from there can even hope to survive their "move" let alone earn a living? Does this mean they're not hard working? Come on man. 
+
+And this is not about if you deserve your wealth or not. 
+
+I think your thought process is more concrete than abstract. I doubt you'll see this for what it is. I'm not trying to invalidate your wealth or hard work. I just agree with the author(s) that if you're super wealthy you are lucky to reap the rewards of hard work while most people on earth work hard all their lives and don't get to be in the top 1% ever. 
+Lets throw Syria and Iraq out, they are oppressive places that if you live there your first goal is to leave (if you aren't in power) and get to a first world country.
+
+I don't disagree that the odds are against you no mater where you live, but where you see luck...I see hard work. (Except for heirs of those that worked hard)
+
+About the odds here is what Felix Dennis says on the subject.
+
+[Part one:](http://i.imgur.com/VJ88tQT.png)
+
+[Part Two:](http://i.imgur.com/eIXoT3O.png)
+
+
+
+Edit: for Dennis Comfortably well off is: £200k-£499k in liquid assets; £3m-£4m in total assets
+He makes the assumption that you live in the US. I'm not. Only 1 in 20 people in the entire world live in the US. 
+
+Which is basically my point. Whether your hard work pays off to make you incredibly wealthy is more to do with luck than hard work itself. Where you are born is purely luck.
+I see what you’re saying but… I disagree with you about this.
+I know what you're saying too. I would consider myself wealthy. I know for sure that in 3 years' time I'm gonna be earning at least 4-5 times the national average. As time goes by it's only gonna get better. I have worked hard to be where I am. I don't plan to stop working hard. But I can never claim to have reached where I am or where I am going to be purely with hard work. And it's the same for everybody. The sooner wealthy people realize that the better off they will be, especially with making the world around them better. I am not saying you should blame your failures on bad luck and sit on your butt. I'm saying wealthy people should realize that their lives are not their own in a manner of speaking. 
+
+Cost?
+
+Interesting and good article 
+
+
+
+
+
+
+That's pretty disgusting, if you think the thousands of families whose lives could have changed forever, if mr. GoPro could just enjoy his meaningless life and stop being a greedy little sociopathic bourgeois for a moment.
+
+Would it kill him to just get a modest sailboat? No, it wouldn't.
+
+But him getting that yacht means thousands of families will die starving, because his stupid ostentatious toy was somehow more important.
+
+
+
+
+This is the best tl;dr I could make, [original](http://www.bloomberg.com/news/articles/2015-11-09/billionaire-dart-reinvents-himself-as-cayman-islands-land-baron) reduced by 87%. (I'm a bot)
+*****
+> In a rare glimpse into Dart&#039;s holdings, Mark VanDevelde, chief executive of the tycoon&#039;s Cayman-based Dart Enterprises holding company, recently told Bloomberg that Dart is less interested in distressed foreign debt these days, increasingly turning his focus to luxury real-estate development on the Cayman Islands and elsewhere, especially in Latin America.
+
+> One of three sons of the late founder of Mason, Michigan-based Dart Container Corp., Ken stepped down as President of the cup company last year and is no longer a shareholder, said Tony Wilbert, a spokesman for Dart Enterprises.
+
+> Dart&#039;s dealings with the island government also show how tax havens, intended to attract wealthy investors, can end up putting local governments at a disadvantage: When a government is weakened by its lack of a tax base, it doesn&#039;t have much negotiating clout with tycoons whose dollars they&#039;ve worked so hard to bring in.
+
+
+*****
+[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/3s9vlj/billionaire_dart_reinvents_himself_as_cayman/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ "Version 1.6, ~13387 tl;drs so far.") | [Theory](http://np.reddit.com/r/autotldr/comments/31bfht/theory_autotldr_concept/) | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr "PMs and comment replies are read by the bot admin, constructive feedback is welcome.") | *Top* *five* *keywords*: **Dart**^#1 **island**^#2 **government**^#3 **local**^#4 **development**^#5
+
+Post found in [/r/wealth](http://np.reddit.com/r/wealth/comments/3s9qhy/billionaire_dart_reinvents_himself_as_cayman/), [/r/worldpolitics](http://np.reddit.com/r/worldpolitics/comments/3s4j2w/two_decades_after_ken_dart_renounced_his_us/), [/r/business](http://np.reddit.com/r/business/comments/3s4j11/two_decades_after_ken_dart_renounced_his_us/) and [/r/occupywallstreet](http://np.reddit.com/r/occupywallstreet/comments/3s4iz7/two_decades_after_ken_dart_renounced_his_us/).
+
+
+Amancio Ortega is a very interesting case. He made his fortune in clothing, which is about the most difficult product in the world to get rich making.
+
+The way he did it can actually be applied to many different products today. Instead of trying to predict trends months in advance and manufacture what he thought might be popular, he instead created a manufacturing process that reacted immediately to current trends. His company was able to identify a new trend or popular item, copy it, and put it on the shelves within days.
+
+His background is still a little bit of a mystery; he began selling clothing according to this business model in his teens, and it looks like he was about 36 years old before he was able to open his first retail outlet. That's a big gap. 
+
+But his business model is brutally efficient and almost unstoppable and can be applied to many other products.
+Of course most rich people in the US are self-made. It's not surprising that in the countries that those morons who support Bernie Sanders like most of the rich inherited their wealth. 
+I have no idea what you're trying to say with that sentence.
+I'm not sure what's so hard to understand about that. 
+
+> Having money doesn’t solve all your problems. In fact, it may even create more.
+
+Very true. Greed is a disease. This is why anyone who has an income above $1 mil and wealth above $10 mil should have income and wealth capped, and the excess money should go towards national infrastructure and basic income for the poor and working class.
+
+Once you're wealthy, the rat race should be suspended. No more competing for who has the biggest yacht! No one needs a yacht, everyone will be just fine with a 30-footer sailboat, and if they complain, no sailboat for them either!
+
+Human beings unite - say no to extreme inequality.
+
+
+Of course by the time they hit 65.....a pack of gum could cost 3 grand.
+
+It may be better to invest in starting a buisness so they can sell it off and cash out at 30.
+Gotta love compounded interest.
+Businesses have a high rate of failure. The ideas in this article are time-tested truisms. If inflation is that bad the market will still beat it. Usually you will make about 6.5 to 7% AFTER inflation. 
+
+
+
+
+Ballin'!
+
+This made me physically horny
+
+
+This is the best tl;dr I could make, [original](http://www.bloomberg.com/news/articles/2015-05-12/gross-gives-away-700-million-on-way-to-donating-fortune) reduced by 82%. (I'm a bot)
+*****
+> The bond investor has already given away as much as $700 million and eventually will donate his remaining $2 billion fortune, a figure that&#039;s &quot;Staggering, even to me,&quot; Gross said in an interview on Bloomberg Television.
+
+> In 2005, Bill and Sue Gross gave $23.5 million to Duke University, his alma mater.
+
+> Other major gifts include $20 million to Hoag Memorial Hospital Presbyterian in Newport Beach, also in 2005; $10 million to the University of California, Irvine, in 2006; $20 million in 2012 to Cedars-Sinai in Los Angeles; $20 million in 2013 to the medical charity Mercy Ships to fund the construction of a floating hospital; and $10 million to Mission Hospital in Laguna Beach in 2014.
+
+
+*****
+[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/35uxk6/bill_gross_the_amount_of_money_ill_give_away_is/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ "Version 1.5, ~17643 tl;drs so far.") | [Theory](http://np.reddit.com/r/autotldr/comments/31bfht/theory_autotldr_concept/) | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr "PMs and comment replies are read by the bot admin, constructive feedback is welcome.") | *Top* *five* *keywords*: **Gross**^#1 **million**^#2 **Fund**^#3 **year**^#4 **Sue**^#5
+
+Post found in [/r/Economics](/r/Economics/comments/35sg4z/bill_gross_the_amount_of_money_ill_give_away_is/) and [/r/wealth](/r/wealth/comments/35qhd5/bill_gross_the_amount_of_money_ill_give_away_is/).
+Thank you /u/autotldr
+
+
+
+
+Tom hanks and Julia Roberts? Just 2 off the top of my head. I think tom cruise is up there also. 
+
+
+
+I bet I have more moon credits than all of them.  
+
+In the future, wealth won't determine self worth.
+
+
+This was written by a studious and dilligent person who tries too hard to figure out key secrets of successful people but generally fails to. 
+Number 7 stretches credibility. You won't find a lot of millionaires juggling multiple shifts at different jobs.
+Although some probably have some "side projects" that could produce some revenue at some point, if that counts.
+
+My "second job" is being a landlord and my "third job" is fixing houses.  I think they phrased it bad, it makes it sound like Walmart is the second job.
+
+
+Need to step up my game.
+
+
+
+Great article! I agree we need to stop whining and learn to use the wealth we either have or are given each week and make it count! 
+And if you need more money in the short term, find more ways to make it. A lot of the crybaby "but but I can't" arguments do not apply to the USA. In most other countries, sure. 
+I came to that same realization recently when I was over planning my debts. Make more move on. 
+
+I actually had a friend have a child today, I will forward the article to him. Thanks!
+
+It's a long one but well worth the read. This profiles high achievers, not those who were lucky or were handed everything in life. 
+
+
+Saving 8% of each paycheck for retirement, which is the median, doesn't scream "super saver" to me. It screams "responsible and plans to retire at 65". But it's otherwise good. There's a number of us who *do* save a very nice amount (25%, 50%, or more) of our income. The Trans America Center survey excluded Millennials without jobs, which mitigates the poor results that the /r/lostgeneration crowd would bring to the table. 
+
+There really are just unlimited opportunities for middle class Americans to "make" it. And there's of course PLENTY of opportunity for young people who grew up "poor" in the US to make it into the middle class or better. This generation has it better than any other generation in any other country in human history. I'm sure that those who are taking advantage of the opportunities realize this in some way. 
+
+
+
+
+
+
+
+A very nice internet friend of mine has good things to say about The Wharton School.Do you know anything about it?
+This thread has been linked to from elsewhere on reddit.
+
+
+ - [/r/NolibsWatch] [If you get a PhD son, make it an economics PhD at Wharton!](http://np.reddit.com/r/NolibsWatch/comments/1xz8w5/if_you_get_a_phd_son_make_it_an_economics_phd_at/)
+
+
+*^I ^am ^a ^bot. ^Comments? ^Complaints? [^Send ^them ^to ^my ^inbox!](http://www.reddit.com/message/compose/?to=totes_meta_bot)*
+
+
+One of the top schools in the country. Employers seek out their graduates.
+Thanks for the information.
+PM me for the best way to get accepted. 
+Thanks very much!
+
+Sweden will be a shell of its former self if they don't do anything about the Arabs and Africans coming in to parasite off the country.
+
+I work as a nurse, making about $125,000 a year. I live in an average house, drive an 8 year old car, take my lunch to work and drink free water from the cafeteria dispenser. However, there are several groups of employees that make significantly less than i do. Most notably, transporters, nurses aids, dietary personel, and housekeeping. Yet i constantly see these people, that make at most, $12 an hour, buying lunch, driving older luxury cars ( 2005 mercedes, old lexus etc) wearing expensive clothes, hair and makeup done, and buying soda at the cafeteria for $1.75 a bottle. You would think that poorer people would be more frugal. Just venting I guess. Thanks
+My guess, having a fairly low income myself, is that they're hopeless of ever moving up in the world. The mentality is "well, I'm never going to make more money than this. Life is never going to get better in that way. I might as well spend what money I have to try and reach some sort of happiness." Also, many of us can't afford to buy, and so we rent. Sometimes, this means that we have more money than we need to cover our bills, but not enough to live in a better apartment, so we spend the money on other crap. Also, a lot of us are very self-conscious about what other people think because of our low income status. So we do things like drive relatively fancy cars, wear nice clothes, and do our hair and makeup because we are afraid that others in the income bracket you're in will judge us. I suppose this very post proves that there's no way to escape that.
+
+I would counter with why do people such as yourself spend so little? Why are you driving an 8 year old car if you make $125k a year? What the heck is the point of having that amount of money(which I realise really isn't an outrageous amount but it's more in a quarter of a year than I've seen my entire life) if you don't spend it? The other parts have obvious rational reasons; water and bringing your lunch are healthier.
+Cuz they're are happier than you are are all like "YOLO SO GO BLO YO BRO NO HOMO HAHAHA" and smoke meth for the rest of the day.
+I dont spend the money because I dont have to. My 2005 Toyota runs perfect, and has only needed minor repairs. If I get a new $30,000 car then I have a car payment of $500 a month, or $6,000 a year. If I spend $2,000 a year fixing up my car for the next 2 years then I have saved $10,000. I am not concerned what people think of me. But if I put money on a credit card, or continuously finance cars and clothes I will never be independant and will be chained to a credit card bill for the rest of my life. You can dress nice, and look nice on a budget. That might mean going to a barber, or cutting your hair yourself. Doing your own hair and nails saves tons per month. My stepson once told me about his "rich" friends dad that owned fancy cars and a boat and motorcycles. They declared bankrupcy be ause they were over extended on credit and lost everything. I would rather be financially solid with no debt, and own what I have, than be paying everything on a credit card. 
+A bit of advice. Stop buying things you dont need. Find ways of paying kess for the things you do. Use credit cards only in an emergency. Pay off you debt. Start putting money aside and go back to school. Get a better job and believe it or not, in 10 years you will be making $125,000 too. The alternative is that you continue racking upmdebt, cant afford your bills, declare bankruptcy, sell your car, cant get credit, cant buy anything, and in 10 years you are still making the same $25,000 and are no better off. I wish you the best of luck and if you need any tips on anything I would be more than happy to PM you whatever I know. Happy holidays!
+Thanks for the response and advice, that all makes sense. I'd probably still be driving a newer car if I made 125000, but to each his own. Things are actually looking up for me right now, graduating with a Bachelor's degree in computer science , already got a decent job starting in January that pays 45k a year. My response came mostly from looking at many of my peers who dropped out of/were forced out of college with few to no marketable skills.
+
+
+The poor person's mindset is very prevalent here on reddit. It's something people need to break free from. They're prisoners of their own negativity. 
+
+
+
+
+
+
+
+
+I keep up the old "burning daylight" thing that my grandfather used to say. If it's day time and not raining then there are things to do outside and I can't sit around on reddit or watching TV. If there are jobs to do, I do it. I take up all of the over time and on-call work that I can get from my employer, and have some small side streams of income as well. Doing stuff makes you feel better, and makes you a more successful person. It's common sense, but common sense isn't always too common!
+I totally agree. In the meantime though this website is being overrun by people who think employment = slavery, and recently it's spread to conspiratard. :/
+
+I "flipped" two houses before/during the housing market tank, the first made a nice profit but the second basically just kept me employed. Some advice for what it's worth:
+
+* If you don't know construction, walk through with a friend who does. Don't rely only on inspectors, they do miss things. You want to be absolutely certain that you aren't buying a problem.
+* Add up the cost of the home, your time, materials, permits, selling costs, and a nice chunk of profit for yourself. If the result is that you can offer it at a significantly lower price than comparable homes, go for it. If not, don't bother.
+* Foreclosures often look like wrecks, but don't rehab the whole house - spackle and a nice paint job works wonders. If necessary, update just a couple of key areas that will raise the desirability in a buyer's eyes.
+* Don't bother trying to buy through sheriff's auctions; find a realtor who deals primarily in bank foreclosures, and find out what the bank is looking to get out of it. Don't be shy about multiple offers/counter offers. 
+* When it's time for showings, make sure the house smells new and fresh.
+* I've sold by realtor and by owner, and to me, by owner was more work than it was worth.
+
+
+
+Leverage has been used by many investors to amplify returns. Not all debt is bad.
+Yeah this article sucks no offense 
+
+
+
+
+
+
+
+
+
+I plan on being one of them, maybe not in the next five years, but almost certainly in the next ten.
+
+
+I think people are afraid to invest in stocks because most of them don't really get how this thing works. But indeed, one great investment can change one's life. But I just read about [elevation group](http://www.homebusinessproductreports.com/investing/) which is a financial education membership which educates someone on how investor thinks. Pretty sure investing on stocks is one of their advices. 
+
+
+
+
+no deep insight here....
+
+
+Kiva, crowd funding, micro lending
+Meet with an attorney and try going to some local meetups for private lenders.  I do this for mortgages and think it's fantastic.
+I looked into this once. There are sites that let you loan X amount, which is then pooled with other lenders to the same opportunity, and returns given out on a percentage basis.
+
+So think of it like kickstarter with an ROI.
+
+I ultimately didn't do it. But it was legit.
+check out kickfurther
+give me $2m. we both hire lawyers, i get an accountant, let me keep half the  interest i build with it for a year and i give you back more than $2m after a year.
+It doesn't look like there is any profit to be made for the lender here, while I would love to help others out, I am currently looking for a side job so I can have a little extra money for fun.
+Well you may want to start researching on the regulatory requirements of opening up a loan shop. Depending on what type of loan (secured/unsecured), there might be some minimum capital requirements you have to adhere to. The financial services field is heavily regulated from state to federal levels. Not trying to discourage you. Just trying to paint the full picture.
+if not, why not
+Most assuredly there are. If you define "wealthy" as anyone with a net worth in the millions.
+
+Considering 10+ million households in the US aline with a net worth of 1 million plus, that guarantees many live past age 100.
+
+But if the wealthy are under represented in that club it's likely due to two main reasons.
+
+1) the high pressure, high stress life they had to live to make their fortune took a toll on their body. High blood pressure, heart conditions, etc all come back to haunt them in later years.
+
+2) they give up. Many of these people live for their work. And and when forced to quit they see no purpose in life and just fade away and die.
+
+
+You think $2.7m is expensive? You clearly haven't seen the Bugatti yacht
+
+
+
+It's not inherently bad. It's just not too effective. 
+
+Kiva.org has been a round since 05. 
+
+So for 12 years it's been doing microfinancing for parts of Africa and other areas, and while there's some success stories, it hasn't been particularly revolutionary.
+
+Much of the problem is taxes and debt.
+
+If I'm collecting 90% of your wages in taxes (such as areas of the Congo, Sierra Leone, Somalia, etc), then it doesn't matter how much you make or how successful your business is, you will never build local economy.
+
+So I'm all for micro financing, it just has a very limited impact and hasn't been shown to affect large communities all that much.
+Thank you for the response. yes it's true, a real difference can't be made only by using one solution. but i read these case studies: 
+http://www.sharone-microfinance.com/case-studies/
+and it looks promising.
+
+
+
+
+
+Yes. I would make sure everyone knew it and would then give it to a homeless person. 
+Yes.
+Why don't some super rich people get their teeth fixed?  I mean it's not like they can't afford it.
+Thousands of dollars for a meal? Maybe once if it's more of an experience (I'd love to try white truffle once), but it's not about being rich or not but the value. Regardless of how much money I make I still judge food as the same value. You can get ridiculously good food for $20-50/plate at restaurants, end up with $100 for two, and that's more of a night out thing. General meals are typically $5-10/person since we cook.
+Sf NYC etc? Does some engineer moving out to the Bay area, the highest COL in the country, make him more or less liekly to be super rich than if he went ot an 'up and coming' tech city?
+Define "super rich".  An engineer, like anyone, can become 'rich', by keeping income high and expenses low.
+
+But the super wealthy didn't get that way by clocking in and out of a 9-5.
+
+They invented, invested, or created a company. 
+
+There are no 9-5 billionaires.
+
+Meaning, if you just collect a check from someone else, and do a job, there's a limit.
+
+So, you find a tech startup. They're offering you 100,000 shares to come on board, with a 1 cent strike price. That could be worth 10s of millions in a few years. IF the company survives. Start-ups often don't. 
+
+So, if that start-up is in the Bay area, ask yourself, is that location allowing them to have easy access to VC money? Are they struggling to get into quarterly funding rounds? Are they staffed with the best and brightest because that's where the best snd brightest live?
+
+Now same scenario, but the company is in Columbus, Ohio..... your cost of living us waaaay lower. But do VCs support a lot of tech startups out of Ohio? Are they close enough to the big banks to keep on their radar come quarterly funding time? Is the company staffed with people so talented that they can go public in 7-10 years and make you that multi-millionaire? Is the tech talent pool of Ohio that deep?
+
+So in scenario 1, you struggle up front, with a *better*, not guaranteed, but better chance of long term payout. Scenario 2, you're making money hand over fist each month, but you'll likely be unemployed again within a year or two as the company goes under.
+
+There's exceptions to every rule of course.
+
+But again, define "super rich". You won't be a billionaire, or even worth 100s of millions, being "just an engineer".
+
+But millions by retirement is easy, and having 10, 20, or 30, million is statistical possible if the luck gods smile upon you and you find yourself with >100,000 shares in a company that goes public with a 100 dollar/share valuation. But that's a pretty rare bird.
+I would argue that rich people tend to invest in wealthy cities, rather than attaining it there.  With that said, a friend's father is worth over $100M from real estate investing after working as a cab driver in a high COL city.  He did this through starting multiple businesses, not just real estate, which might further support my argument.
+
+The question comes down to how you create wealth through real estate.  If you work a 9-5 job then you are likely a passive investor or you do a flip or two on the side.  You are going to be capped on how much real estate you can buy based on your income (from the job and then from the real estate you already own).  Say you are an engineer making $150k per year in a high COL area.  How many years does it take you to get a $1M rental property?  If you only have to put down 3%, then maybe every year but that requires getting an FHA mortgage and moving every year, refinancing the previous home into a non-FHA mortgage, which would require significant growth in the value of the property to be able to refinance conventionally.  My guess is that it would take about 3-4 years of strong savings to get 20% down payment.  These areas also tend to have very low Cap Rates (rate of return on the cost of the property) which leads to little, no or negative cash flow for the first few years of ownership.  An engineer/ real estate investor like this would likely be worth a lot of money when they are older if they continued this strategy for the rest of their life but I doubt they would be in the super rich category you are referring to. 
+
+Buying a house in these cities could make you wealthier down the line than buying in a lower cost area because you are forced to pay a higher mortgage, therefore contributing more to paying down the debt (which is really like saving).  This is only true if you are bad at saving other money.  Also, a 3% appreciation rate for a $1M house is $30,000 vs a 3% appreciation for a $250k house which is only $7,500.  This would put you at an advantage if you plan on selling by purchasing in the pricier area.
+
+Ultimately, the super rich that own a lot of real estate usually start with some decent pot of money.  Banks will only lend on commercial properties if the guarantor has a decent balance sheet to begin with. The tax savings from real estate investments in NYC or SF can be huge for the already rich.  You get to write down between 2.5% and 3.6% of the buildings value each year through depreciation.  So if a building in NYC makes $2.5M per year and the building cost him $100M, the owner would have 0 tax liability.  Let me know if you would like me to expand on anything here.
+
+This is the best tl;dr I could make, [original](http://luxurysociety.com/articles/2016/03/switzerland-land-of-luxury-or-sinking-ship) reduced by 96%. (I'm a bot)
+*****
+> The Swiss franc has been surging on foreign exchange markets since the start of the year, when the Swiss National Bank unexpectedly allowed it to float.
+
+> In the short run, annual growth of the Swiss economy is expected to remain weak at 0.9% in 2015 and 1.4% in 2016, owing to sluggish global demand and the strength of the Swiss franc.
+
+> Given all the headwinds, it is small wonder that in the first seven months of 2015 exports of Swiss watches were down 1.2% in value terms against the same period last year, according to the Federation of the Swiss Watch Industry.
+
+
+*****
+[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/4apjfs/switzerland_land_of_luxury_or_sinking_ship/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ "Version 1.6, ~44978 tl;drs so far.") | [Theory](http://np.reddit.com/r/autotldr/comments/31bfht/theory_autotldr_concept/) | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr "PMs and comment replies are read by the bot admin, constructive feedback is welcome.") | *Top* *keywords*: **Swiss**^#1 **luxury**^#2 **Switzerland**^#3 **market**^#4 **good**^#5
+
+
+
+This is the best tl;dr I could make, [original](http://www.bloomberg.com/news/articles/2016-03-07/hong-kong-residential-sales-plunge-70-as-slowdown-intensifies) reduced by 71%. (I'm a bot)
+*****
+> &quot;The newspapers keep on saying the market is going down and buyers think they can get a cheaper house half-a-year later or one year later, and so are waiting,&quot; said Thomas Fok, a property agent at Centaline Property Agency in Hong Kong&#039;s upscale Mid-levels West district where he hasn&#039;t made one sale this year.
+
+> Property prices have declined 10 percent from their September highs amid uncertainty over the economy at home and in China, possible interest-rate increases and plans by the government to boost housing supply in the next five years.
+
+> New World Development Co. reported that contracted sales plunged 79 percent in the first half of its fiscal year to HK$2.8 billion, achieving just 28 percent of its full-year sales target.
+
+
+*****
+[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/49kyy2/hong_kong_home_sales_tumble_70_prices_down_10/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ "Version 1.6, ~42819 tl;drs so far.") | [Theory](http://np.reddit.com/r/autotldr/comments/31bfht/theory_autotldr_concept/) | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr "PMs and comment replies are read by the bot admin, constructive feedback is welcome.") | *Top* *keywords*: **percent**^#1 **year**^#2 **property**^#3 **Kong**^#4 **prices**^#5
+
+
+
+
+[deleted]
+google it
+
+
+GM and XOM are looking like good buys right now. Unfortunately I only have $1900 of remaining contributions to put in for 2015. I'm going to have to go taxable! 
+
+Didn't you answer your own question? 84mm X $100 =
+[deleted]
+Jesus
+
+Great short read, thank you.
+
+
+
+
+
+Isn't it better when millionaires are not frugal, since the money goes back into circulation and helps redistribute?
+When rich people save and invest money, it is used in a 'productive' way. If I give money to the bank and then the bank lends that money to someone else, it is giving me a return, the bank a return, and the person who borrows it access to cash they would not normally have had. It still 'creates jobs' just not as efficiently as direct consumer spending since it leverages some of the future earnings of the borrower borrowers as interest rather than direct spending. Investing the stock market is similar in that it gives corporations access to capital in a similar way to people with banks, and corporations can then use that money to hire people or increase spending. Obviously in reality it is more complex than that, but that's the basic idea. 
+They are millionaires because of their frugality. Their money is mostly tied up in investments, which helps the economy. 
+> When rich people save and invest money, it is used in a 'productive' way.
+
+Is it? It makes me think of the Waltons, and it feels like all it is is gratuitous wealth accumulation.
+
+Walmart COULD pay every employee triple the amount, and they'd be OK. Employees would not need government assistance, no food stamps, and they'd have a chance to get a budget for some investments, maybe healthcare or education for their kids (or themselves).
+
+But instead, the Waltons decided that the $42 billion each of them have is not quite enough, and they make an effort to concentrate more and more of Walmart's profit under their already gigantic estate, and investing some of it for things that are counter-productive to the middle class, like trying to cut adoption of alternative energies, and prop up republican Super PACs.
+
+Don't wealthy people need to come to a point and decide when enough money is enough? Because if wealth/income concentration starts affecting society negatively, it's bad, right?
+
+Do the Waltons NEED more money? No. But they keep acting like they do.
+So think of money like a game. If I were a walton, sure adding billions more to my pile doesn't change much for me personally, but it does prevent someone else from getting money onto their pile. That other person could try to buy more politicians and set up more successful government programs or subsidies (like how walmart employees account for a huge amount of poverty assistance spending.) So in the game of money, like true game theory wise you want to acquire as much as possible to prevent your "opponents" from outperforming you. One could argue if walmart paid their employees a fair wage, they would lose market share by having to raise their prices, or lose market capitalization by reducing returns on their stock. These changes in turn leave to vicious cycles that perpetuate the negative changes and could ruin them.
+> So think of money like a game.
+
+Sure, for the sake of argument. 
+
+...But you know it's not a game, right? It's a resource.
+
+> If I were a walton, sure adding billions more to my pile doesn't change much for me personally, but it does prevent someone else from getting money onto their pile.
+
+So... they're only over when they have ALL the money and everyone else is miserable? You're basically accepting they're sociopaths who will destroy the world if they don't get mental assistance.
+
+> That other person could try to buy more politicians and set up more successful government programs or subsidies (like how walmart employees account for a huge amount of poverty assistance spending.)
+
+So you're also admitting the majority of the working class is not getting nearly what they need to be happy, simply because they can't.
+
+> So in the game of money, like true game theory wise you want to acquire as much as possible to prevent your "opponents" from outperforming you.
+
+Money is not correlated with performance. Never was, never will. You being born in the Walton family by chance doesn't mean you were a better performing sperm. It's completely random. 
+
+Isn't the ideal of capitalism the opposite of random? Meritocracy based on performance? For that you need government and structural legislation.
+
+Another problem with that logic is: when society performs better and middle class has more money, Walmart wins because they get more buyers.
+
+In true game theory, the winning move is not to play, or, to play cooperatively, maximizing everyone's outcome.
+
+> One could argue if walmart paid their employees a fair wage, they would lose market share by having to raise their prices, or lose market capitalization by reducing returns on their stock.
+
+You're assuming paying their employees a fair wage requires them to raise prices? Each of the heirs has $42 billion. They can pay employees TRIPLE while keeping prices the same, without even feeling a dent in their wealth.
+
+> These changes in turn leave to vicious cycles that perpetuate the negative changes and could ruin them.
+
+The changes you described basically IMPROVE THE LIVES OF MILLIONS OF PEOPLE IN AMERICA. 
+
+You're saying "They're right to be selfish, because if everyone wasn't super poor, they wouldn't be ultra-rich." and it worries me you seem to keep a straight face about it.
+
+
+Holy fucking shit dude calm the fuck down. I'm not a sociopath and neither are they. And yes I would wager to say that many rich people lack empathy and understanding of how the world works (http://www.huffingtonpost.com/2011/12/22/rich-people-lack-empathy_n_1165425.html and http://opinionator.blogs.nytimes.com/2013/10/05/rich-people-just-care-less/ and http://www.scientificamerican.com/article/how-wealth-reduces-compassion/) I'm literally saying the super elite treat money like a game, it does not make a tangible difference to someone with billions of dollars to have more or less money so why the fuck do they do it? The answer? To "win" because they can... What other explanation is there?
+
+
+I'm not trying to say they're right, if anything you took the wrong tone from my writing, I was trying to point out how FUCKED UP it is that the ultra wealthy elite believe those ideas and put them into practice.... and they certainly DO do that. The evidence is everywhere in our countries in tax cuts and budget shortfalls and lacking education spending.
+
+
+And you ignored the point. They aren't game theorying for "everyone's" outcome like you said, but their own.... The Waltons have no STAKE in making America a better place, they already have their money. In a pure anarcho-capitalist libertarian heaven, they are only ever going to care about themselves and their own family. Improving the lives of their neighbors could possibly improve their stock performance, but at the same time those people could go spend the money on other things that WON'T earn the Waltons a return, so why would I give away money and hope it trickles back up to me if I can just take it from the start and not have to worry about the actions of other people? I would reduce my own uncertainty and risk by never letting other people have money they might not give back to me in the first place.
+
+
+And holy shit, the individual personal wealth of each individual walton isn't really the point of how much they could afford to pay their workers more. Becuase the company is publically traded and they have other shareholders besides the Walton's to answer to. So maybe the family is fine with paying their employees more, but the stock market would get angry at that and force the stock down which is bad for their company as a whole, employees included.... In addition, if walmart started paying their employees more, everyone would want a job there compared to mcdonalds or any other basic retail job. The competition for getting a job at walmart would become VERY tough and it would only benefit a small percentage of people anyway.
+
+
+I'm not at all saying "they're right to be selfish" because you are completely right, it is an INCREDIBLY inefficient system right now, but they have no incentives to make it less inefficient, especially when that reduces their own personal outcomes. I wish I lived in a more egalitarian country like Norway, trust me. But to argue that rich people will not take behaviors that maximize their own outcomes (wealth) isn't an argument you can have you assume they are "rational" beings (I am using rational in the sense of economics and not the more realworld sense of making the smartest choice.) who only care about their OWN self interest. Capitalism is an inherently selfish system. The problem is you can't PROVE that improving everyone's outcome simultaneously improves theirs at a rate better than what is currently happening, and why should they take that risk?
+
+
+Trust me I know everything you're saying is true, I have a degree in Finance and have studied economics. I know about the velocity of money and the multiplier effect, I take a rational evidence based approach for my political ideologies. I ponder the goods and bads of a wealth tax every day. I think raising minimum wage is an absolutely, intrinsically good thing. But in assessing the current situation in America, the ONLY explanation for the system being like it is currently is the incredibly large amount of money being used to buy interests in politics, because the system isn't currently set up to benefit anyone who isn't in the top 10%. The system is currently set up for people who have money to keep it, and to hinder ordinary people from challenging them through the only possible arena (elections). 
+
+And my ENTIRE point was that, the way the current system is set up is a logical outcome of what happens when you allow money to control politics rather than being representative of the people's will. And in fact it will only continue to get worse unless something happens.
+> I'm literally saying the super elite treat money like a game, it does not make a tangible difference to someone with billions of dollars to have more or less money so why the fuck do they do it? The answer? To "win" because they can... What other explanation is there?
+
+I agree - but you don't think that's sociopathic? Because it totally is :|
+
+There's amazing games out there if you want a game. No one should treat the economy like a game. It hurts a lot of fellow Americans in the process - people in a society they owe their fortune to.
+
+> They aren't game theorying for "everyone's" outcome like you said, but their own....
+
+Right, I was referring to the actual conclusions in game theory, which point to cooperation as far superior to playing for selfish victory.
+
+Apologies then, we clearly agree on this.
+
+I really think it's a disease at that point - not something to be admired. It's money addiction and complete disregard for the damage done by capital concentration. It should be made illegal. There should be an upper limit for wealth concentration, and a high death tax to avoid concentration over several generations. No one needs more than a few million to be happy forever, and provide enough to their children and grandchildren to have a fair shot in life.
+I think you said the thing I most agree with "It's money addiction and complete disregard for the damage done by capital concentration." At a certain point sequestering a large amount of any resource into a concentrated group will not have good outcomes, even regardless of levels of cooperation, but I don't know how you rewrite the rules of society when the moneyed interests are what control the rules.
+Moneyed interests are much less powerful than we assume, after the rise of the web and untethered, unsupervised communication. Technically we are in revolution process, that has been extended (and made less explosive) by internet-like communication.
+
+The only question is if the result of that thought revolution is progressive, or reactionary (regressive). For now it seems progressive, but it could turn bad, sure.
+Yea, I think a huge problem is that the government and moneyed interests themselves have CONSTANTLY tried to shut that down. "Net Neutrality" totally would have let moneyed interests control what parts of the internet we could go to. In addition, the surveillance done by the government is still worrying and a threat to everyone's freedom. Overall I am hopeful, especially because people like Bernie Sanders can get shut down or ignored in the traditional broadcast/journalistic media, but can find their audience online.
+
+
+
+
+
+
+
+[Non-Daily Mail Mirror](http://a.pomf.se/pafutg.jpg)
+
+^(Code on) ^[github](https://github.com/bag-man/dm_bot).
+
+
+
+
+
+
+I think those women are north of 55...
+
+Patience and planning beats procrastination almost every time. 
+
+So... Minecraft in the real world?
+
+I just met his wife...
+Wow, what was that like? 
+I'm sorry. Correction: his sister in law. Still some big money. 
+Very. Did anything interesting happen? 
+Idk. Old people stuff
+
+
+It's really not all that complicated. The easiest way to get "rich" is to make decent money and live on less than what you make. 
+
+
+
+I see his point about increasing the stock allocation, but I'm hanging in there with bonds as 30% of my allocation in the 401K and 20% in the portion of the Roth IRA that I use index funds. When the next crash happens, I plan to not just re-balance but reduce my bond allocation. 
+
+This is some excellent common sense wisdom. Too many people are too negative and impatient to be bothered to save for their own retirement.
+I liked the spend money to make money idea. Everyone needs to make their money work for them, especially in today's world of low interest rates.
+And in today's America the opportunities are as great as they've ever been. For the most part people from the US who don't "make it" have no one to blame but themselves. 
+Most people suffer from a fear of failure. Some fail once and quit. The most successful ones stay the course.
+
+
+Yeah, too many will lose on an investment and let it take over their thoughts and actions. 
+
+Take it for what it is, a single loss, that while a setback and drain on capital, also has a silver lining; the ability to, in most cases, claim it for tax loss harvesting purposes.
+
+
+If anything a fear of failure should be used to direct energy towards success in a positive way. Of course the people you are talking about are afraid of *any* failure or setback, but a fear of failure can be a motivator if you can look at the big picture. 
+I think a lot of it would be rooted in a fear of success just as much as it is failure, like how money would cause an alienation of your friends and family due to divergent experiences across the long run. Or you don't want those you care about to resent you or be jealous of you for achieving a sizable success.
+
+That being said, imo, fear of failure is what causes success.
+
+
+
+Some excellent points here. Part of being rich is attitude.
+True that.
+
+
+
+
+
+Nope. f this guy
+
+
+
+Good read,  thx :) 
+
+
+
+
+
+Common sense, in an upside down world!
+
+No doubt about it, tight control is stifling.  I agree that helping employees cultivate a sense of ownership is the best way to tap into their very best performance.  
+
+
+
+
+
+This article has some really bad arguments against index funds.  Since indexes beat "most" active funds, you won't have average returns against actively managed funds. 
+
+The rest is basically trying to argue that you can time the market and filter out bad stocks to beat index funds.  Great! If it is so easy for an amateur to do it, why are the professionals who actively manage funds incapable of the same?
+
+
+"Warren Buffett didn’t get to where he is by buying the S&P 500."
+
+This is such an irrelevant statement. Warren Buffett has so many advantages over an individual investor. Besides, if it were straightforward to be as successful as Warren Buffett, there would be more Warren Buffetts. Many have failed trying.
+
+
+Active managers have to beat the market every year in order to please their customers. The small investor does not. If you are a small investor who reinvests dividends holding a quality company that sees a decline in price for reasons other than the health of the company, such as if the whole sector drops, that is a *good* thing. There are a number of ways to go about investing. Most of my retirement savings are in index funds. My 401K is the largest vehicle that I have and I am 100% in low-cost index funds in that 401K. But I have a taxable brokerage where I am buying quality companies for growth, largely for dividend growth. I'm taking the free money I get from matching and discounts on the employee stock purchase program and buying companies for the long haul. There's also maybe 1/3 of my Roth into individual stocks that I don't necessarily plan to hold onto forever, and that number won't grow unless I do really well since all new contributions go to the index funds.
+
+ Index funds are a great way to go and the best way to go for most small investors, but there are people out there who believe that index funds are the *only* way to go. The point of this article, to me, is really just to call out the people who made indexing into their religion.
+You don't have to be *as* successful as Warren Buffet to be an above average investor any more than you have to be as successful as Michael Jordan to be an above average basketball player. 
+Indexes aren't the only way to invest, but they have shown over the long term to likely be the best for most (not just small) investors.  DRIPs based on specific companies or sectors don't often beat the indexes over the long run because the Beta is > 1 and the volatility is higher.  Don't forget that your the S&P 500 index fund yields 2% and can be reinvested just as well.  Your method of trying to pick specific companies is fine, but you have to watch you beta to see if the risk is worth the growth.
+
+Case in point.  I owned Huron for about 6 months, looked great on paper until they announce accounting issues and had to restate earning.  50% hit in one day.  If you only have 10 stocks equally weighted in a portfolio, you just lost 5% of you portfolio value due to something you couldn't predict.  Unfortunately good companies miss earning, have accounting issues and legal issues right before they become bad companies.  If you can predict which is about to go from good to bad, you'll have a great career in finance.
+
+The beauty of an index fund is that the risk isn't nearly as high as a hand picked portfolio.  This article completely ignores that risk, and says nothing other than try to time the market and only pick good companies.  If only it were that simple.
+And I don't have to learn to dunk like Michael Jordan to be an above average basketball player just as I don't have to buy entire companies a la Warren Buffet to be an above average investor. All I have to do is buy index funds to do better than average over the long run. 
+If it's any consolation looks like Huron is finally trading at close to the level it was at right before the 2009 drop. Small-cap company. Looks like that drop was a wild buying opportunity, at least in retrospect. I don't know much about the company at all. I really don't bother with the small-caps. I couldn't tell you why Huron would be a better company to own over its competitors, much less what they do. 
+
+I know there's more risk involved in picking individual companies. I do my best to minimize the risk. Boeing is one company I don't see going anywhere but up. There's only so many companies that do what they do and there is going to be a huge demand for new airplanes over the next few decades as aging fleets are upgraded and the emerging middle class starts travelling more. I'm up 80% in that one since my 2011 purchase price. I see Coca Cola, General Mills, and General Motors doing well going forward also. GM is one off the wall type of pick from there, since they don't even pay a dividend, but they're sitting on a mountain of cash and are making top quality cars. Give that one time. 
+
+Picking quality companies is key. It's best to think you're looking for a  top-quality company at discounted price than to worry about the market as a whole. And if the stock drops because the whole market dropped and not because there's anything wrong with the company, buy more. That's the approach Buffett takes and through that approach he effectively times the market. 
+
+And I agree for most small investors indexing is probably the better way to go. You need a higher tolerance for risk, you need to do more research, you need better critical thinking skills, you need the spare time, and most of all you need the temperament for it. The average person simply doesn't have all of these things. The potential for gain *is* greater when you are buying quality at a discount and not buying all of the laggards, which you do when you buy the index. On the other side of the coin if one company does tank you'd better have made good choices with your other companies to make up for it. If you take a conservative enough approach there's often warning signs such as a freezing of or dropping the dividend, but you won't catch them all of course. 
+Index funds are a great way to go but they aren't the only way. My grandfather's formal education stopped at the 8th grade. He did pretty good investing in companies that he understood. He was a very conservative investor who mostly bought defense stocks, utilities, and consumer staples. I even have some DRIPs he bought for me when I was a kid. The best one was for a company that hasn't seen a split yet through dividend reinvestment has increased my number of shares from like 10 or 20 (I'd have to go look at the statements) to over 100 shares not even three decades later. 
+
+For many it's simply not worth the time, effort, and risk to go with individual stocks. There's nothing wrong with the indexing approach, again the issue for me is that there's just a lot of Bogleheads on the internet who have this idiotic view that their way is the *only* way for small investors to invest.  I invest a portion of my savings in individual companies but the majority of my investments are in index funds. It keeps me interested. 
+
+This was excellent and exactly what I needed to read! Im an unnecessary spender, I buy my lunch every other day and breakfast most days too but this has really cleared up what I should be considering a win, not just the instant gratification of a better tasting meal.
+
+Thank you SO MUCH for the post.
+I think he's pretty much spot on here. Budgets are not necessary for frugal households. Once you have the right mindset everything will take care of itself. 
+Thanks, and welcome to /r/wealth! Be sure to subscribe and check in from time to time!
+
+Excellent article.
+Thanks. Coca Cola is an established player that even still has room to grow. Its moat is incredible. Hardly any domestic stores use their top competitor, Pepsi, and the biggest restaurants that do used to be owned by Pepsi! I damn near bought Pepsi instead of KO since their dominance in snacks is pretty impressive but they just don't have a single brand that tops "Coca Cola".  Overseas in the Philippines, for instance, Coke and Coke Zero are king while Pepsi and "Pepsi Light" seem to be about on par with RC for market share. And with salty snacks domestic brands and Pringles seem more popular than any of the Frito Lay brands! 
+
+This will be one of the stocks I put my Employee Stock Purchase Plan profits into every year. It's not going anywhere! 
+I held Coke stock for about 40 years, all bought directly from the company with no broker needed.
+I checked their DRIP briefly and saw fees that didn't interest me. Online discount brokers cost less than $10 a trade, will reinvest for you if you tell them to and do that for free, and even keep track of cost basis for you!
+There were no fees of any kind back in the day.
+
+
+Good article. Fear of failure keeps many people from unlocking their potential. 
+
+
+
+
+That man knows how to avoid a question.
+
+
+
+
+
+
+
+
+FTA: 
+
+>Soros was buying shares of Citigroup C +0.35% in the fourth quarter of 2012, and at 8.1 million shares the bank was his largest stock holding by market value
+
+...
+
+>Soros more than doubled the size of his position in Apple AAPL -0.09% to a total of over 180,000 shares
+
+"C" has been a gold mine for investors the last few years. The reverse split didn't hurt it's stock, as it commonly does.
+C should be rewarding investors for years to come. Same for AAPL and GM. I expect dividends to rise/be reinstated on all three. 
+When the dividends kicks in the stock will soar.
+I'm thinking GM is probably going to reinstate their dividend after the government is done selling their shares. They're just sitting on a pile of cash right now. 
+I expect the government exits this fiscal year.
+
+
+http://www.youtube.com/watch?v=-WCFUGCOLLU
+
+Just a few weeks ago Lube was telling us that 3% rates on checking like the rate I get simply don't exist. 4%? LOL! 
+Lube is like Spiritofgreen-light, both lack vision. Total can't do people!
+
+
+
+
+
+
+
+I made it! yes!
+
+
+I have a millionare mind!
+
+
+
+
+
+Silicon Beach brah!
+
+
+
+
+
+
+
+Anyone with a bunch of common sense knows that there are a lot of assholes amongst the top 1% of our societies.
+
+But I wonder *why* the top 1% attracts so many assholes of all types, far & wide. What makes the privileged masses essentially "Asshole Central?"
+
+Really, I thought these stuck-up, self-centered plutocrats would learn from the examples of countless other asshole socialites throughout socioeconomic history to FINALLY realize & think that:
+
+> "Hey, maybe being a self-centered, stuck-up rich asshole is a bad idea after all. We should find better, more agreeable ways to foster goodwill and charity toward one another, help those on the bottom rung of the socioeconomic ladder move their way up, and consider the needs and feelings of others before ourselves."
+
+After all, isn't assholery the sign of insufficient wisdom; the inability to learn from the mistakes of others, and of course their own pasts?
+You are making a claim based on anecdotes and your personal opinion.
+
+One thing to remember is that, assuming you are in a developed country, right now you are in the top 10% relative to the world's wealth.
+
+You are figuratively  yelling that you only got to live at the 9th floor apartment instead of the 10th. The view the beggar sees from the street you both look the same.
+Damn, want some toast with that jelly?
+
+Whoever you're talking to, who is claiming to be a 1%, probably isn't.  Wealthy people have better things to do than taunt poor people.
+While this artivel is in bad spirit, I will answer: people are assholes everywhere even if you think they aren't. they are so mich as they can afford. And cossespondingly to you your looks and your communication skills.
+>Anyone with a bunch of common sense knows that there are a lot of assholes amongst the top 1% of our societies.
+
+
+Now that is a well researched, well presented opener. There are a bunch of assholes amongst any percentage of the population. How do you know there's a disproportionate amount among the 1%? 
+>  How do you know there's a disproportionate amount among the 1%? 
+
+Trump is instigating regressive measures on the country that will surely help the 1% while crushing the less fortunate underfoot. The rich will get richer through his policies.
+
+If they weren't assholes, they'd feel morally sickened from his policies and be like, 
+
+> "You know, maybe Trump should help the underlings of our society get on a better footing and bring them up to a better point like where we are. 
+
+> That way, there will be a greater portion of the wealthy elite and that will mean an even better economy for everyone, since a higher portion of wealthy means better economies for any country or region that has said portions.
+
+> See what happened in the most altruistic countries of Europe? The poor were helped about as well as the rich, and see how better off they are? 
+
+> If Trump would follow their example, then that would mean a better situation for everyone, and less worries for all and the elite as well.
+
+Besides, if there was NOT a disproportionate amount among the 1%, [Corporate Greed](http://en.wikipedia.org/wiki/Corporate_greed) wouldn't be a thing. Also, we wouldn't keep hearing about crimes being routinely committed and gotten away with.
+
+Ever hear about kids being "passed around" from one wealthy child molester to another? They're treated like rumors because the kids and their families are bribed hush money.
+
+I could go on. Books could be made to explain the assholeries of the top 1%, but I'd bet the members of the top 1% would shut down the publishers or pay the publishers to stop printing those books.
+
+No way this is accurate
+Big difference there between where I earn vs. how much I'm worth... 
+It is ..... to a point.  
+
+
+Yes you make massive amounts of cash compared to someone who makes 300 a year BUT your costs of living are astronomical compared to that same person.     
+
+Your quality of life may not be that far apart.  
+
+
+
+
+So yeah the "but you are a 15% er" sites are mostly shit...... and this one has its digital hand out.  
+If you're American this site is better  (but using mostly 2010 data,  so a little out of date).
+
+http://whatsmypercent.com
+It would be nice to see this compared to the cost of living index by county.
+
+
+
+
+
+
+
+Another example of "stealth wealth".
+
+Shouldn't she be sick from an unknown disease already? 
+Was she with him shooting in the gym?
+"Bitch, you wasn't with me shooting in the gym."
+
+
+
+FTA:
+
+>Those retiring at 55 will need money saved outside their 401(k) or IRA, since you can’t tap those accounts before age 59 1/2 without penalty, said Meghan Murphy, director, Fidelity Investments.
+
+This part is false. There are plenty of ways to tap those accounts without penalty before 59.5. But otherwise the article gives good advice. 
+
+
+
+
+
+
+Hi reddit. Im not sure if this is the right sub reddit for this but, what kind of assets would you reccomend a 17yr old to look into investing? I was looking into property but that requires a bit more money to start off with than i can manage currently.
+
+Thanks.
+I don't know what imtonproperty is but I would recommend you invest in stocks, preferably index fund etfs.
+
+Browse /r/investing for more info.
+It would really depend on what kind of money you have available. If you are starting with small amounts of money, one possibility would be to buy tools and start a handyman business. THis could be a simple as a ladder to clean gutters and wash windows. Or a a cloths press and start a pick up and return ironing service. And then for a period of time, you invest as much as possible back into the business, buying more things which will help you expand your offering. Then you start hiring friends to do some of the work, always charging more for them then you are actually paying them, finally you build the business to a point where you can sell it and the good will you have built up. This gives you a big lump of money which you can put into property or elsewhere.
+
+ Good luck.
+
+Take an accounting class so you have the skills to keep track of your money.
+Aha yeah, i fixed it now. Im no good at typing on an ipad...
+Im quite big into IT im working on some qualifications now, however i see this as less of a challenge to start up and more of a lack of point. There are so many IT startup business, atleast around me, i would have to offer something extrodinary to get anywhere.
+The thing to remember is that you don't have to do anything different,  you only have to do it better.  Or for that matter.  In the it space,  so it not badly.  I would suggest that the skills you need is to be able to talk to people and to explain to them what it is that they need that they don't currently have.  
+
+One way you could do this is look around at local businesses.  At this point a lot of small businesses,  the owner is also the "it guy"  so you go into the place and you say,  I am doing this project for school,  what are your it challenges or difficulties.  If one of the things they list is something you know how to sort,  you say,  oh,  I just learned that.  Would you like me to show you how to sort that.  And you do.  But you don't ask for any money.  But you leave them a number.  Next time they ring you,  do the same again.  The next time they ring you say,  I am starting to do this as a business,  I will need... To sort that.  Name a reasonable price.  
+
+Without being as offensive as I usually am,  anybody over 35 will probably know very little about it,  but they will likely assume,  because you are young,  you know even less than them. But you can easily prove what you know by sorting their pain point.  
+
+And then when you have more businesses ringing you than you can handle,  you figure out who is the smartest guy in your class and you send him around.  But they pay you,  you take 20 percent, and then pay your mate.  And so it grows.  
+
+Don't try to reinvent the wheel.  
+
+
+
+
+This guy didn't buy it on credit. He saved for a long time until he could afford it, and then bought it on sale. Not only that but he bought one that's the most energy efficient out of what he looked at, saving his family money for as long as he owns this fridge. The townspeople came out to watch him bring the fridge home. It's a huge deal there. 
+
+If this guy was moved to a rich country like the United States as a young man he'd be a millionaire by the time he was old. This stuff isn't rocket science. 
+
+Lost me at DRIP.
+
+The market is rigged. I no longer waste time or money on wall street.
+DailyFinance folks apparently forgot that inflation matters when thinking about long term savings. Stocks on the long run have returned 6.8% after inflation, nowhere near the 8% or 10% the author himself admits is required for any of this to work.
+
+Continuing with the fuzziness, the % are based on gross pay, not net pay. The amounts an 18 year old needs to save without fail for 52 years are in fact even less realistic than indicated.
+
+But wait, we have a shiny example given that this is all somehow possible: A secretary that saved 7 millions. how?
+
+> It certainly wasn't by playing the horses or winning the lottery. Instead, Grace purchased three $60 shares of specially issued Abbott stock in 1935 and never sold them. Thanks to decades of stock splits and Grace's practice of reinvesting dividends, her nest egg grew into millions.
+
+Note how there's absolutely no mention of saving a huge chunk of a tiny paycheck anywhere there.
+
+And it goes on. They recommend those valiant minimum wage future millionaires to invest in a handful of individual stocks, rather than any kind of diversified fund, because this doesn't work if they're expected to pay any kind of costs.
+
+All in all, this would be terrible advice, but it's fortunately completely impractical.
+
+Next, I expect the author to borrow [McDonalds' budgeting skills](http://www.nasdaq.com/article/mcdonalds-sample-budget-sheet-is-laughable-but-its-implications-are-not-cm261920) to tell those lazy millenials how easy it is to save for that little million.
+
+
+Nice post OP. I dont know why people are being so negative.  Changing how you think is the best advice of all.  
+This is in honor of the /r/lostgeneration crowd who thinks it's impossible for everyone without a trust fund to get ahead in life. As you can see, it's very doable. So long as you start early. 
+That's your loss. 
+Wallstreet is rigged in the short term, if you are a long term investor then you can reap the benefits.
+The point is that it's not "impossible" to save for the future. Most people do not stay in minimum wage shit jobs their whole lives. Say that million dollars is worth about $500k in today's dollars. That means, with a 4% withdrawal rate, they are taking in $20,000 in today's dollars plus Social Security.
+
+The McDonalds Budgeting skills are a good thing. One problem with lower income people is lack of education and lack of financial literacy. Most Millennials are not working for the minimum wage. Most Millennials make decent money and have, at the most, very manageable student loan debt. For most people who do not save it was a choice that they made, regardless of whether or not they are willing to admit it. 
+Thanks. I think part of the problem is that schools are out for Christmas break. 
+Or yours. Capital gains. LOL.
+[removed]
+Forgot- must keep this in mind. That is why reddit has been painful lately. 
+I'm doing pretty well. You're shooting yourself in the foot by staying out of the stock market entirely instead of learning how to successfully invest in it. 
+It takes a complete idiot think that saving and investing in a few blue chip DRIPs (or, to use a more modern technique, in Index Funds in a Roth IRA) is something that you can compare to winning the lottery.
+
+The majority of those who do not make it in the USA do not make it due to their own poor choices in life. 
+I was in, for a long time, and got out.
+
+You must be young.
+[removed]
+You sound like an idiot. 
+
+http://www.joshuakennon.com/a-look-at-inflation-adjusted-sp-500-data-for-1960-through-2010/
+I've been investing in the market since I was a college student, son. 
+
+Generally conservative investors picked the winners by picking those who had already won. Good blue chips include General Mills, Exxon Mobil, and Johnson & Johnson. As I said in the earlier comment, a minimum wage income American can also take out a Roth IRA (just like anyone else) and invest in index funds. This takes out the need to read the annual report and pay attention to news about any company in particular. Not paying attention to these things can get you intro trouble if, for instance, one of the companies you are invested in turns into the next Kodak. This is why most financial web sites and advisers push regular folks towards index funds. Consider this your free education in stock investing. 
+
+I am in my early thirties and have amassed an all too common amount of wealth as a "saver", six figures (which I first hit years ago). One of the moderators has an eight-figure fortune. He can tell you the same things I just told you. This stuff isn't rocket science. 
+
+If you wish to continue to to be able to post here please be respectful. 
+sound is not as bad as being one.
+[removed]
+Allow me to rephrase my previous statement. You *are* an idiot. I really do feel sorry for you. You seem so sure of your view that investing in the stock market is a sucker's bet despite the overwhelming evidence to the contrary. 
+I really bug you huh?
+
+We could compare tax liabilities, and unless you're Fortune 100, I'm quite sure I would prevail. 
+
+Enjoy your 2015 tax bill. Mine will be the lowest tax bracket, if its the same as last year. And I'm not even retired...yet.
+You don't bug me at all. 
+
+Most of my stocks are in tax advantaged accounts. I have some that aren't, but most of *those* stocks are company stock I got for an extremely low price. Each block of that stock has a 5 year waiting period before I can sell it. 
+
+That's nice that you are in a low tax bracket. I'm not but thanks to the little deductions and freebies that are available I pay very little in federal income tax. Last year I paid less than 10%. 
+
+
+
+So does foolish mean good?
+
+This is a terrible report.
+
+(1) Assuming this is pre-tax income over a 40 year career, the realized difference is nowhere close to $300, 000. 
+
+(2) This doesn't account for the selection bias of colleges. *Of course* taking the smartest, most driven, and most financially secure people into one demographic is going to result in higher income. Unfortunately, we won't know how much of that alleged $300k is because of the university degree itself and how much is because of the type of people that go for degrees. Personally, I think the net income would work out the same but don't have the resources to prove it.
+
+(3) You're living in or near poverty for 4 years, unless withdrawing serious loans. The difference in quality of life between $20k/yr and $40k/yr is *much* larger than the difference between $40k/yr and $60k/yr. That means that the overall quality of life is arguably better by making a consistent modest amount than being broke for 3-5 years and then making more-than-modest amount.
+
+With that said, going to university and getting a degree tends to turn you into a better person (in theory) and I endorse it for that reason. But I'm still not convinced someone should do it for money.
+Great, so what's the present value of 300k of additional earnings over a lifetime? Or is that already taken into account?
+
+You have to pay for college up front (or pay interest) and have the opportunity cost of four years of no earnings as well.
+
+I'm a huge proponent of education for both economic and non-economic reasons, but I wonder where the break even point is? If you hvae to pay 30k in tuition x4 plus interest is it still worth it economically?
+Well you could look at it this way - if the price tag even for the top 5% of college is $50k / year, that's $200,000 price for $300,000 worth, so already an ROI of 50% even for the most expensive colleges. If you make $1mm+ over a lifetime with a bachelors than a high school degree, that's both long-term and short-term value. The problem is that the burden is on someone without priori income or savings, so the interest can be prohibitively difficult if utilizing private loans. Public / govt loans can be outpaced by market investments at the present time.
+I don't think you are calculating that correctly...
+I concur, because you now have a $200,000 debt with 5-10% interest and it takes a LONG time to repay that unless you get a good well-paying job, and the debt alone takes away a lot of possibilities without going further in debt
+
+Starting young is huge. Saving for retirement isn't very hard if you start saving a good chunk of what you make starting in early adulthood. 
+
+Do the wealthy have the luxury of doing what ever the fuck they want, access to the best health care, best food, best education?  The hottest chicks?  Leading to best genetics?  yes.
+
+So... Technically...
+He's funny and a dick, so maybe stick to funny.  
+This thread has been linked to from elsewhere on reddit.
+
+
+ - [/r/NolibsWatch] [jcm267 is testing the waters for his philosophy: &quot;Rich People Are Better Than Poor People — They Just Are&quot;](http://np.reddit.com/r/NolibsWatch/comments/28wb8f/jcm267_is_testing_the_waters_for_his_philosophy/)
+
+
+*^If ^you ^follow ^any ^of ^the ^above ^links, ^respect ^the ^rules ^of ^reddit ^and ^don't ^vote ^or ^comment. ^Questions? ^Abuse? [^Message ^me ^here.](http://www.reddit.com/message/compose?to=%2Fr%2Fmeta_bot_mailbag)*
+
+
+Being funny and a dick is what makes him so successful. I think he should stick to being funny and a dick.
+What he said is mostly true, at least in a country like the US where everyone has a pretty good shot at life. He just said it in a dick way. Given that he had a new book out at the time it makes good sense for him to have said it that way. It gets attention. 
+[removed]
+Thanks totes.
+I could sell meth and make a good buck.  Money ain't everything.  I find it turns some people shitty.  His hero is Donald Trump and he had daddy's money.  Growing up in Hollywood didn't really ground him in reality.  Let him pay the old rates in taxes for rich guys, 70 percent dude.  Then expect us to thank you. More of the same old same old.  Rich people deserve a special favoritism, when I find most of them highly mediocre.  The whole species has atrophied.  
+[removed]
+The NLW downvote brigade has arrived. I already banned one of Lube's sockpuppets, and the vote totals are really skewed. 
+It takes discipline, organization, vision, etc to make money. Even a scumbag drug dealer has to have these skills to be successful at the highest levels. It doesn't mean they are all righteous people who are all going to go to heaven and who all have perfect families.  
+
+Corolla wasn't rich growing up. He still has idiot friends. I think he understands reality better than the average person does. 
+
+What he said was in part for a shock value, attention getting. But there's some truth to it. It takes *some* nuance to be able to understand it. 
+> Growing up in Hollywood didn't really ground him in reality.
+
+There's a big difference between growing up in Hollywood and growing up IN Hollywood. He goes through in one of his books every place he's ever lived in and the majority of his life was spent in seedy LA apartments working dead-end jobs.
+We should report this
+[removed]
+rags to riches or the story goes..it's a story, nothing more.  Believe in Dragons?  Perhaps they're real too.
+It's safe to say that Donald Trump has a far better work ethic, better critical thinking skills, and more discipline than the average person does. 
+He def did construction along side with Mexicans. Many different accounts and stories. 
+Why?  
+
+"Trump is the son of Fred Trump, a wealthy New York City real-estate developer.[8] He worked for his father's firm, Elizabeth Trump & Son, while attending the Wharton School of the University of Pennsylvania, and in 1968 officially joined the company.[9] He was given control of the company in 1971 and renamed it The Trump Organization.[10][11]"
+
+
+
+Good for him.  I actually mean that.  Hard work is it's own reward is also sometimes bullshit though.  However, sitting and doing nothing gets nothing done.  I didn't say Adam Carolla was a total turd.  He's just wrong about rich people.  Some might have discipline.  Learned behaviors.  Nobody's better, just rats in a cage.  
+The average person couldn't manage a 711. Trump manages not just his business but a personal brand. He builds and manages property all over the world, writes books, and manages a public persona and has become a multi-billionaire. Yes Trump had advantages in life but there are many other rich kids who never made it. You still have to possess all of the skills I mentioned above for the type of success that Trump has enjoyed. 
+Congratulations, you answered your own question Do you have any idea how hard it is to get into, let alone graduate from, The Wharton School of the University?
+[removed]
+Pedigrees doggies do the agility trials well, but Mutts move the world forward.
+I was going to comment on that part but there's the whole "well, his daddy got him in there" retort. I'd say his huge success in business speaks greater volumes than his Wharton degree. This is of course no disrespect to Wharton. 
+LOL. He's not a Kardashian. Donald Trump is more like Mitt Romney. Both had advantages in life, both still went out and got big things accomplished. You can't fault him for his advantages. Just being born in the US is an enormous advantage. We've all got the opportunity to make it big like these guys did. Look to guys like Sam Walton, or Bill Gates, or Steve Jobs. These guys were simply *much better* than the average person.
+Trumps a pretty successful guy, as are many rich people. Money does not guarantee that.
+Getting in is one thing, getting though with a degree is quite different.
+If I start the race 3 ft from the finish line, I win, don't I?
+No, not always. Even successful people fail sometimes. There are plenty of lazy rich folks out there. Trump is not one of them.
+
+We just had a concert here in the Napa Valley called Bottle Rock. Normal ticket cost was $279 for a 3-day pass, $599 for a VIP pass, $3000 for a "platinum pass".
+There is a sub-genre of literature that I love ***SOOOO*** much, and that is your good old (or new, in this case?) "rags-to-riches tale."
+
+Please share about current millionaires and billionaires who used to be homeless, and how they picked themselves back up into the success and wealth they now live on to this day!
+
+^(Please exclude lottery winners. I am happy for the formerly homeless to be delivered to a better life through winning an improbable contest, but I am more likely to die in an accident on the way to buying a lottery ticket, than I am to win a lottery. I only play lottery tickets that I'm given for free. Otherwise, I could just financially ruin myself.)
+John Paul Dejoria. He was briefly homeless, sleeping in an old Rolls Royce along L.A.’s Sunset Strip. But he and cofounder Paul Mitchell squirreled together $700 and hit the pavement, peddling their shampoo door-to-door. Today Paul Mitchell is $1 billion a year revenue business.
+
+Sauce: Googled 'homeless to billionaire'
+Christopher Gardner is probably one of the most famous examples of this. [Dani Johnson](http://www.forbes.com/sites/crossingborders/2013/02/13/how-one-woman-went-from-homeless-to-millionaire-in-less-than-two-years/)'s story is awesome. [Kevin Green](https://uk.finance.yahoo.com/news/-i-used-to-be-homeless-but-now-i-m-a-millionaire-property-developer-103301169.html)'s story has good lessons hidden in it. I'm sure there are many others.
+
+Desperation forces a person try a wider variety of ways to make money, increasing odds of success. It's like a plant spreading roots during drought.
+I'm interested in these stories as well, but I treat them the same manner you treat lottery tickets: I only listen to them if I'm given them for free, I don't waste my time going out of my way to seek more and more of these stories rather than doing something useful with my time. Otherwise, I could just mentally ruin myself.
+
+Why do you seek these stories habitually? Are you in a tough spot and would like to know there is hope?
+
+I'm just curious to know if you think the way I used to.
+J K Rowling was about as close to homeless you can get. She lived off state assistance and wrote some of the most famous books in our lifetime.
+Howard Hughes pretended to be homeless and hitchhiked on trains across the country, except he still had money when he did it. 
+After being pitched the shampoo, the one who answered the door asks,
+
+"Is that *YOUR* Rolls-Royce parked in front of my house?"
+
+"Absolutely, sir/madam!"
+
+"Wow, now I have a feeling that with this shampoo comes prestige. It'd better serve me well like your Rolls-Royce serves you well! How much did you say that it was?" (*Gets out check*)
+
+I'd bet his Rolls in the background was his sale-driver for his wares!
+
+Not everyone can have that advantage. I'll see whether your search term can find me someone who started on even *less* and still became billionaires (or at least otherwise *very*-well off!)
+
+And you may feel free to post more story summaries about other rags-to-riches tales if you feel like.
+Gardner is the one who immediately came to mind. 
+> Are you in a tough spot and would like to know there is hope?
+
+Absolutely. I'm going to run a $150 deficit this month. Even though I could ask for help in many places online and that my BTC wallet is **1GAPArviaetaim6maMd3PJXJmGevRLsKN7**, I know that won't be as fruitful as taking the examples of the rags-to-riches stories I read and working myself far above the hole I'm in.
+
+Even though I could play games, I decided to seek these stories by posting to /r/wealth in the first place, and hopefully I can find other subreddits where it's relevant to ask for them too.
+Then I'd better spend my spare time authoring! That is, after I finish reading my backlog of website articles that I've been meaning to!
+
+Also, in case my computer crashes and external hard drives get lost in a tornado or house-fire, well, where are some *very good* free services to store aspiring authors' works online? I need to put them there for all to see and proofread / critique, so I can have all the help I need polishing my works.
+Dang, how'd he avoid [getting beaten up by the railway "bulls" (railroad company security guards) who look to throw out freight-traveling hobos due to liability reasons?](https://www.youtube.com/watch?v=v4C1Rp857Dc)
+You are not alone in this situation, and so your question has been asked and answered over and over again to death on the internet. 
+
+I recommend instead of asking such generic questions on here, that you [ask google](https://www.google.com/search?q=homeless+to+riches) instead, where you will find a plethora of answers for your specific question instantly.
+
+No.  Correlation does not imply causation.  This is day 1 of stats 101.  Do not pass go.  Do not collect $200.  
+
+
+
+
+
+
+
+I think it's wiser to start your own venture earlier rather than relying on a wage to save, create opportunities for yourself as early as possible so you can technically retire whenever you want.
+
+
+
+I had sworn off market watch as blog spam but I read this anyway. I am pleasantly surprised by the writer's ability and down to earth style. 
+
+*Freedom is low overhead.*
+
+I also agree that a budget is a tool and after 90 days of tracking every penny, I was able to get on a path that led to my acquisition of 10 income producing houses over two years. This article reinforces the idea that I should move into one of the smaller houses. 
+
+You could post this to /r/financialindependence for more traction. 
+
+
+
+
+
+Over time there are few investments that do better than the stock market. The 7% annual return between the initial prediction and now doesn't even include dividends! 
+
+
+
+FTA:
+
+
+
+Sell Your Stuff
+
+We’ve all heard of Craigslist and eBay – online marketplaces designed for the average person to log on and cash in – but did you know you could use them to become a millionaire? Sophia Amoruso, the founder of online clothing store Nasty Gal, started her business by selling vintage finds on eBay. After building a fanbase she outgrew the platform and created her own website. Nasty Gal is now worth $130 million, and is set to do $128 million in sales this year. These days, there are many more online retail options on which to make it big. Up-and-coming competitors include Threadflip, a place for users to turnaround their used women’s apparel, and ModCloth, which curates vintage threads. Others, such as Etsy, a craft-focused site, offer a more targeted community e-retailer, while Zaarly flips the model, so buyers post what they want to buy and sellers get in touch to pitch why they should sell it. 
+
+Proxibid is another online auction site; it's closer to a traditional auction than eBay in some key ways, and potentially much more useful to a person looking to buy and resell merchandise.
+Thanks, I'll check that out.
+[removed]
+
+Nope. I like to spend, and I'll only be saving up for retirement so I can spend when I retire.
+
+I looked at the terms shown for the 45y deferred longevity annuity, and it appeared that the discount factor required to make the PV of the cashflows equal $100k was only about 3%, given mean life expectancy.  Seems like a fairly horrible "pension" investment.
+
+Wouldn't it be much better to invest the $100k in an index stock fund and leave it as inheritance?  
+
+
+FTA:
+
+>Here’s the good news: Those boomers produced millions of children, and now the largest young generation in history is just beginning to come of age. Several years from now, 91 million Gen Y members enter the work force; buying homes, and all the other stuff that goes with family life. Prepare for what may turn out to be the biggest economic boom of your lifetime. Accumulate Fallen Angels while markets remain depressed.
+
+
+
+
+Where else can you safely get such a high ROI? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If you guys like this stuff you should check out *The 4-hour Workweek* by Tim Ferriss.  He has a fantastic section on productivity (although that really is the basis of the book). It is hard to apply some of the concepts he talks about, but if you are serious about being productive try his advice!
+
+
