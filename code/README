@@ -1,0 +1,88 @@
+
+======================================
+Hierarchical Lexicon Construction Code
+======================================
+
+If you use this resource for research, please cite the following paper:
+Wilson, S., Shen, Y., and Mihalcea, R. "Building and Validating Hierarchical Lexicons with a Case Study on Personal Values." In Proceedings of the International Conference on Social Informatics. 2018.
+
+NOTE: This code is provided "as is" and comes with no guarantees. If you are having trouble getting it working, feel free to contact steverw@umich.edu for help.
+
+Python package requirements
+---------------------------
+- numpy
+- matplotlib
+- sklearn
+- lxml
+- boto3
+- xmltodict
+- html
+- gensim
+
+Guide
+-----
+1. Run initial clustering
+$ python clustering.py <path_to_phrase_embeddings>
+Where <path_to_phrase_embeddings> is a path to a file that contains embeddings for each word or phrase that you would like to be sorted. These embeddings can be obtained by, e.g., averaging the word embeddings of each word in the phrase.
+A file called "hierarchy.graph" will be created as a result.
+
+2. Initiate crowd-powered sorting
+$ python sort_hierarchy.py hierarchy.graph
+NOTE: you will need to add your mturk keys to the header of this file.
+NOTE: this will take some time! You will probably need to wait several days (or more, depending on the size of the intial hierarchy) for the mturk workers to complete the entire sorting process.
+A file called "sorted.graph" will be created as a result.
+
+3. View the hierarchy
+All .graph files are already in dot format, and can be visualized in as an image using:
+$ dot -Tpng <graph_file> -o <output_image_file_name>
+
+4. Define categories
+Viewing the image, decide which categories you wish to get word lists for. Add these numbers, one per line, to a file. This will be your <measurable_nodes> file.
+At this time, you can also manually modify the graph file if you wish, using any text editor.:w
+
+5. Expand categories and view final lexicon
+$ python expand.py <path_to_word_embeddings> <graph_file> <measureable_nodes>
+The output from this program will include the lists of all words that fall under your measurable nodes.
+
+==============================
+Files included in this package
+==============================
+
+clustering.py
+-------------
+Initial agglomerative hierarchical clustering.
+
+hierarchy.py
+------------
+Class definition for the Hierarchy object.
+
+mturk.py
+--------
+Functions to facilitate interface with Amazon Mechanical Turk.
+
+sort_hierarchy.py
+-----------------
+Main code used to run the crowd-powered sorting.
+
+expand.py
+---------
+Used to expand the hierarchy to include more nodes based on any word2vec style embeddings.
+
+gpl.txt
+-----------
+License information.
+
+Copyright (C) 2018 Steven R. Wilson
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
