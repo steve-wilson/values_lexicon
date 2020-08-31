@@ -10,7 +10,7 @@ Files included in this package:
 
 values_lexicon.txt
 ------------------
-Each row contains a category name in ALL CAPS followed by a comma (,) and then a word or phrase that belongs to the category.
+Each row contains a word or phrase followed by a comma (,) and then the category name that contains the word/phrase in ALL CAPS.
 
 gpl.txt
 -----------
